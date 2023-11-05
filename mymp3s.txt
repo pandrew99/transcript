@@ -1,0 +1,1683 @@
+          mp3: "audio/Welcome1.mp3"
+      supplied: "mp3",
+          mp3: "audio/TheCurrentStateoftheChickasawLanguage.mp3"
+      supplied: "mp3",
+          mp3: "audio/ChickasawDialects.mp3"
+      supplied: "mp3",
+          mp3: "audio/ChickasawSpellingSystems.mp3"
+      supplied: "mp3",
+          mp3: "audio/TheChickasawLanguageRevitalizationProgram.mp3"
+      supplied: "mp3",
+                            <li><a class="audioButton" href="audio/1GlottalStop.mp3">' Glottal Stop</a></li>
+                            <li><a class="audioButton" href="audio/2a.mp3">a</a></li>
+                            <li><a class="audioButton" href="audio/3aa.mp3">aa</a></li>
+                            <li><a class="audioButton" href="audio/4a_underlined.mp3"><u>a</u></a></li>
+                            <li><a class="audioButton" href="audio/5b.mp3">b</a></li>
+                            <li><a class="audioButton" href="audio/6ch.mp3">ch</a></li>
+                            <li><a class="audioButton" href="audio/7f.mp3">f</a></li>
+                            <li><a class="audioButton" href="audio/8h.mp3">h</a></li>
+                            <li><a class="audioButton" href="audio/9i.mp3">i</a></li>
+                            <li><a class="audioButton" href="audio/10ii.mp3">ii</a></li>
+                            <li><a class="audioButton" href="audio/11i_underlined.mp3"><u>i</u></a></li>
+                            <li><a class="audioButton" href="audio/12k.mp3">k</a></li>
+                            <li><a class="audioButton" href="audio/13l.mp3">l</a></li>
+                            <li><a class="audioButton" href="audio/14lh.mp3">lh</a></li>
+                            <li><a class="audioButton" href="audio/15m.mp3">m</a></li>
+                            <li><a class="audioButton" href="audio/16n.mp3">n</a></li>
+                            <li><a class="audioButton" href="audio/17ng.mp3">ng</a></li>
+                            <li><a class="audioButton" href="audio/18o.mp3">o</a></li>
+                            <li><a class="audioButton" href="audio/19oo.mp3">oo</a></li>
+                            <li><a class="audioButton" href="audio/20o_underlined.mp3"><u>o</u></a></li>
+                            <li><a class="audioButton" href="audio/21p.mp3">p</a></li>
+                            <li><a class="audioButton" href="audio/22s.mp3">s</a></li>
+                            <li><a class="audioButton" href="audio/23sh.mp3">sh</a></li>
+                            <li><a class="audioButton" href="audio/24t.mp3">t</a></li>
+                            <li><a class="audioButton" href="audio/25w.mp3">w</a></li>
+                            <li><a class="audioButton" href="audio/26y.mp3">y</a></li>
+            	  <li><a class="audioButton" href="audio/Are_you_Indian.mp3">Are you Indian?<br /><span>Hattak api'ma' chiya?</span></a></li>
+                  <li><a class="audioButton" href="audio/Do_you_speak_Chickasaw.mp3">Do you speak Chickasaw?<br><span>Chikashshanompa' ishanompolitaa?</span></a></li>
+                  <li><a class="audioButton" href="audio/Have_a_nice_day.mp3">Have a nice day. <br><span>Chinittakat chinchokma'shki.</span></a></li>
+                  <li><a class="audioButton" href="audio/Hello_Chickasaw.mp3">Hello.   <br> <span>Hallito / chokma</span></a></li>
+                  <li><a class="audioButton" href="audio/Hello_how_are_you.mp3">Hello, how are you?  <br> <span>Hallito /chokma, chinchoma?</span></a></li>
+                  <li><a href="audio/How_old_are_you.mp3" class="audioButton">How old are you?    <br><span>Afammi kattohmi chimayya'sha?</span></a></li>
+                  <li><a href="audio/I_am_Chickasaw.mp3" class="audioButton">I am Chickasaw.   <br><span>Chikashsha saya.</span></a></li>
+                  <li><a href="audio/I_am_fine.mp3" class="audioButton">I am fine.     <br><span>Anchokma.</span></a></li>
+                  <li><a href="audio/I_am_from_Chickasaw.mp3" class="audioButton">I am from ...   <br><span>Aamintili...</span></a></li>
+                  <li><a href="audio/I_do_not_speak_Chickasaw_very_well.mp3" class="audioButton">I do not speak Chickasaw very well. <br><span>Chikashshanompa' anompolili chokma ki'yo.</span></a></li>
+                  <li><a href="audio/Its_going_to_rain.mp3" class="audioButton">It's going to rain.   <br><span>Omba'chi.</span></a></li>
+                  <li><a href="audio/My_family_is_from_Ada.mp3" class="audioButton">My family is from Ada.      <br><span>Anchokka-chaffaat Ada-ak<u>o</u> aaminti.</span></a></li>
+                  <li><a href="audio/My_name_is.mp3" class="audioButton">My name is ...    <br><span>Saholhchifoat ...</span></a></li>
+                  <li><a href="audio/What_is_your_family_name.mp3" class="audioButton">What is your family name?   <br><span>Chinchokka-chaffat nanta holhchifo?</span></a></li>
+                  <li><a href="audio/What_is_your_name.mp3" class="audioButton">What is your name?    <br><span>Nanta chilholhchifo?</span></a></li>
+                  <li><a href="audio/Where_are_you_from.mp3" class="audioButton">Where are you from?   <br><span>Katiyakta ishaamintitaa?</span></a></li>
+                  <li><a href="audio/You_speak_Chickasaw_very_well.mp3" class="audioButton">You speak Chickasaw very well.   <br><span>Chikashshanompa' ishanompoli chokma.</span></a></li>
+      <li><a href="audio/Who.mp3" class="audioButton">Who    <br><span>kata</span></a></li>
+      <li><a href="audio/Whose.mp3" class="audioButton">Whose  <br><span>kata</span></a></li>
+      <li><a href="audio/Whato.mp3" class="audioButton">What   <br><span>nanta</span></a></li>
+      <li><a href="audio/What color.mp3" class="audioButton">What color  <br><span>pisa-katihmi</span></a></li>
+      <li><a href="audio/What time.mp3" class="audioButton">What time   <br><span>hashi' kanalli nanta</span></a></li>
+      <li><a href="audio/When present.mp3" class="audioButton">When (present tense)  <br><span>kat<u>i</u>hkmak</span></a></li>
+      <li><a href="audio/When past tense.mp3" class="audioButton">When (past tense)   <br><span>kat<u>i</u>hkaash</span></a></li>
+      <li><a href="audio/Where.mp3" class="audioButton">Where   <br><span>katiyakta</span></a></li>
+      <li><a href="audio/Where is.mp3" class="audioButton">Where is   <br><span> ______ mano</span></a></li>
+      <li><a href="audio/Why.mp3" class="audioButton">Why   <br><span>katihmihta</span></a></li>
+      <li><a href="audio/How.mp3" class="audioButton">How   <br><span>kat<u>i</u>hsht</span></a></li>
+      <li><a href="audio/How in what manner.mp3" class="audioButton">How (in what manner)  <br><span>kaniht</span></a></li>
+      <li><a href="audio/How many.mp3" class="audioButton">How many  <br><span>kattohmi</span></a></li>
+      <li><a href="audio/How much does it cost.mp3" class="audioButton">How much does it cost?  <br><span>kattohmi ayalli</span></a></li>
+      <li><a href="audio/Which one.mp3" class="audioButton">Which one?    <br><span>katimpi</span></a></li>
+      <li><a href="audio/Hello are you good.mp3" class="audioButton">Hello, are you good?   <br><span>Hallito / chokma, chinchokma?</span></a></li>
+      <li><a href="audio/Yes and you.mp3" class="audioButton">Yes, and you?   <br><span><u>l</u>i, ishnoako?</span></a></li>
+      <li><a href="audio/Chickasaw language.mp3" class="audioButton">Chickasaw language  <br><span>Chikashshanompa'</span></a></li>
+      <li><a href="audio/English language.mp3" class="audioButton">English language   <br><span>Naahollimanompa'</span></a></li>
+      <li><a href="audio/I speak Chickasaw.mp3" class="audioButton">I speak Chickasaw   <br><span>Chikashshanompolili.</span></a></li>
+      <li><a href="audio/How_do_you_say.mp3" class="audioButton">How do you say _____?    <br><span>Kat<u>i</u>shchi ishaaci ____?</span></a></li>
+      <li><a href="audio/Say it again.mp3" class="audioButton">Say it again.    <br><span>Aachi an<u>o</u>wa.</span></a></li>
+      <li><a href="audio/I understand.mp3" class="audioButton">I understand. <br>   <span>Akostinichili.</span></a></li>
+      <li><a href="audio/Idonotunderstand.mp3" class="audioButton">I do not understand.  <br>  <span>Akostinicho.</span></a></li>
+      <li><a href="audio/What is this in reach.mp3" class="audioButton">What is this (in reach)?   <br><span>Yappa nanta?</span></a></li>
+      <li><a href="audio/What is that out of reach.mp3" class="audioButton">What is that (out of reach)?   <br><span>Yamma nanta?</span></a></li>
+      <li><a href="audio/Again.mp3" class="audioButton">Again    <br><span>An<u>o</u>wa</span></a></li>
+      <li><a href="audio/How_are_you.mp3" class="audioButton">How are you?   <br> <span>Chinchokma?</span></a></li>
+      <li><a href="audio/I_am_bad.mp3" class="audioButton">I am bad    <br><span>Anchokma ki'yo.</span></a></li>
+      <li><a href="audio/I_am_feeling_better.mp3" class="audioButton">I am feeling better <br>   <span>Anchokmakaayni.</span></a></li>
+      <li><a href="audio/I_am_good_And_you.mp3" class="audioButton">I am good. And you?  <br>  <span>Anchokma, ishnaako?</span></a></li>
+      <li><a href="audio/I_dont_know.mp3" class="audioButton">I don't know.<br><span>Akith<u>a</u>no</span></a></li>
+      <li><a href="audio/I_have_to_go.mp3" class="audioButton">I have to go <br> <span> Ayalima'kila.</span></a></li>
+      <li><a href="audio/Say_it_in.mp3" class="audioButton">Say it in Chickasaw  <br>  <span>Chikashshanompa' aachi.</span></a></li>
+      <li><a href="audio/Say_it_slowly.mp3" class="audioButton">Say it slowly. <br>   <span>Chokmalo'si aachi.</span></a></li>
+      <li><a href="audio/Speak_only_in.mp3" class="audioButton">Speak only in Chickasaw  <br>  <span>Chikashshanompa' ila aachi.</span></a></li>
+      <li><a href="audio/Stop_Youre_going_too_fast.mp3" class="audioButton">Stop. You're going too fast.  <br>  <span>Hika, ishpalhkichi salami.</span></a></li>
+      <li><a href="audio/Until_I_see_you_again.mp3" class="audioButton">Until I see you again  <br>  <span>Anowa chipisala'ch<u>o</u>.</span></a></li>
+      <li><a href="audio/What_am_I_doing.mp3" class="audioButton">What am I doing?  <br>  <span> Nanta katihmili?</span></a></li>
+      <li> <a href="audio/What_are_you_doing.mp3" class="audioButton">What are you doing?  <br> <span>Nanta ishkatihmi?</span></a></li>
+      <li><a href="audio/I_am_angry.mp3" class="audioButton">I am angry.   <br><span>Sashaa.</span></a></li>
+      <li><a href="audio/I_am_happy.mp3" class="audioButton">I am happy.    <br><span>Asayoppa.</span></a></li>
+      <li><a href="audio/I_am_hungry.mp3" class="audioButton">I am hungry.    <br><span>Sapoba.</span></a></li>
+      <li><a href="audio/I_am_not_feeling_well.mp3" class="audioButton">I am not feeling well.    <br><span>Iksamalhpi'so.</span></a></li>
+      <li><a href="audio/I_am_scared.mp3" class="audioButton">I am scared.    <br><span>Samihlha.</span></a></li>
+      <li><a href="audio/I_am_thirsty.mp3" class="audioButton">I am thirsty.    <br><span>Sanokshila.</span></a></li>
+      <li><a href="audio/I_like_that_kid.mp3" class="audioButton">I like that kid.   <br> <span>Chipotaak<u>o</u> ayoppáshli.</span></a></li>
+      <li><a href="audio/I_love_my_grandpa.mp3" class="audioButton">I love my grandma.    <br><span>Appo'si' <u>i</u>holloli.</span></a></li>
+      <li><a href="audio/I_love_my_grandma.mp3" class="audioButton">I love my grandpa.   <br><span>Amafo'si' <u>i</u>holloli.</span></a></li>
+      <li><a href="audio/I_want_some_water.mp3" class="audioButton">I want some water.   <br><span>Oka' sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_go_play.mp3" class="audioButton">I want to go play.   <br> <span>Chokoshkomo aya sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_listen_to_the_iPod.mp3" class="audioButton">I want to listen to the iPod. <br>   <span>Nanola' haklo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_ball.mp3" class="audioButton">I want to play ball.  <br>  <span>To'li' chokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_video_games.mp3" class="audioButton">I want to play video games.    <br><span>Holba' ishtchokoshkomo' chokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_with_my_friend.mp3" class="audioButton">I want to play with my friend.    <br><span>Ankana ibaachokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_watch_television_TV.mp3" class="audioButton">I want to watch TV  <br>  <span>Holba' aapisa' pisa sabanna.</span></a></li>
+      <li><a href="audio/Mommy_I_want_to_go_potty.mp3" class="audioButton">Mommy, I want to go potty.  <br>  <span>Sashki, abooshi' aya sabanna.</span></a></li>
+      <li><a href="audio/My_family_shops_at_WalMart.mp3" class="audioButton">My family shops at Wal-Mart.  <br>  <span>Anchokka-chaffa' Wal-Martak<u>o</u> aachompa.</span></a></li>
+      <li><a href="audio/This_is_funny.mp3" class="audioButton">This is funny.  <br> <span>Yappat ikkosti'no.</span></a></li>
+      <li><a href="audio/This_is_no_fun.mp3" class="audioButton">This is not fun.  <br>  <span>Yappat ikchokmo.</span></a></li>
+      <li><a href="audio/You_smell_good.mp3" class="audioButton">You smell good.   <br> <span>Chibilama.</span></a></li>
+      <li><a href="audio/I_see.mp3" class="audioButton">I see.    <br><span>Pisali.</span></a></li>
+      <li><a href="audio/I_see_a_dog.mp3" class="audioButton">I see a dog.  <br>  <span>Ofi' pisali.</span></a></li>
+      <li><a href="audio/Big_Small.mp3" class="audioButton">Big, Small  <br>  <span>Ishto', ishkanno'si'</span></a></li>
+      <li><a href="audio/House.mp3" class="audioButton">House <br>   <span>Abooha</span></a></li>
+      <li><a href="audio/I_see_a_big_house.mp3" class="audioButton">I see a big house. <br>   <span>Abooha ishto' pisali.</span></a></li>
+      <li><a href="audio/I_see_a_small_cat.mp3" class="audioButton">I see a small cat  <br>  <span>Kowi' iskanno' pisali.</span></a></li>
+      <li><a href="audio/car.mp3" class="audioButton">Car  <br>  <span>Itti' chanaa' palhki'</span></a></li>
+      <li><a href="audio/I_see_a_yellow_car.mp3" class="audioButton">I see a yellow car  <br>  <span>Itti' chanaa' palhki' lakna' pisali.</span></a></li>
+      <li> <a href="audio/Be_polite.mp3" class="audioButton">Be polite.    <br><span>Chokma ishatta'shki.</span></a></li>
+      <li> <a href="audio/Behave.mp3" class="audioButton">Behave!   <br> <span>Nokchito!</span></a></li>
+      <li><a href="audio/Clean_your_room.mp3" class="audioButton">Clean your room.  <br> <span> Chimabooha' chofalli.</span></a></li>
+      <li><a href="audio/Come_and_eat.mp3" class="audioButton">Come and eat.  <br>  <span>Minti cha impa.</span></a></li>
+      <li> <a href="audio/Dont_argue.mp3" class="audioButton">Don't argue!  <br> <span>Ishtachapanna!</span></a></li>
+      <li><a href="audio/Dont_fight.mp3" class="audioButton">Don't fight!    <br> <span>Ittibinna!</span></a></li>
+      <li> <a href="audio/Go_to_bed.mp3" class="audioButton">Go to bed.   <br> <span> Nosit aya.</span></a></li>
+      <li><a href="audio/Help_me_clean_the_table.mp3" class="audioButton"> Help me clean the table.   <br>  <span>Aaimpa' chofallikat sapila.</span></a></li>
+      <li><a href="audio/Help_me_in_the_kitchen.mp3" class="audioButton"> Help me in the kitchen.  <br>  <span> Aalhponi' asapila.</span></a></li>
+      <li><a href="audio/Help_me_with_the_dishes.mp3" class="audioButton">Help me with the dishes.  <br>   <span>Amposhi' chofallikat sapila.</span></a></li>
+      <li><a href="audio/Help_me_with_the_laundry.mp3" class="audioButton">Help me with the laundry.  <br>  <span>Naafokha achifakat sapila.</span></a></li>
+      <li><a href="audio/Help_your_dad_inside.mp3" class="audioButton">Help your dad inside. <br>   <span>Anonkaka' chinki' apila.</span></a></li>
+      <li><a href="audio/Help_your_dad_outside.mp3" class="audioButton">Help your dad outside. <br>   <span>Kochchaat chinki' apila.</span></a></li>
+      <li><a href="audio/Help_your_dad.mp3" class="audioButton">Help your dad. <br>  <span> Chinki' apila.</span></a></li>
+      <li><a href="audio/I_am_sorry.mp3" class="audioButton">I am sorry. <br>   <span>Sanokhánglo.</span></a></li>
+      <li><a href="audio/I_love_you.mp3" class="audioButton">I love you. <br>   <span>Chiholloli.</span></a></li>
+      <li><a href="audio/I_should_not_have_done_that.mp3" class="audioButton">I should not have done that.  <br>  <span>Akyammokantkant.</span></a></li>
+      <li><a href="audio/No.mp3" class="audioButton">No.  <br>  <span>Ki'yo.</span></a></li>
+      <li><a href="audio/Respect_your_elders.mp3" class="audioButton">Respect your elders. <br>   <span>Kamassa' ishholiitobla'shki.</span></a></li>
+      <li><a href="audio/Thank_you.mp3" class="audioButton">Thank you.  <br>  <span>Chokma'shki / Yakookay</span></a></li>
+      <li><a href="audio/Turn_off_the_television.mp3" class="audioButton">Turn off the television.<br>
+      <li><a href="audio/Yes.mp3" class="audioButton">Yes.<br /><span><u>I</u>i / Hoomi.</span></a></li>
+      <li><a href="audio/You_are_a_good_boy.mp3" class="audioButton">You are a good boy.<br>
+      <li><a href="audio/You_are_a_good_girl.mp3" class="audioButton">You are a good girl.<br>
+      <li><a href="audio/You_behave.mp3" class="audioButton">You behave.<br>
+      <li><a href="audio/You_can_go_and_get_it.mp3" class="audioButton">You can go and get it.<br>
+      <li><a href="audio/You_can_have_it.mp3" class="audioButton">You can have it.<br>
+      <li><a href="audio/You_cannot_have_it.mp3" class="audioButton">You cannot have it<br>
+          <li><a href="audio/Are_you_hungry2.mp3" class="audioButton">Are you hungry?<br><span>Chipobataa?</span></a></li>
+          <li><a href="audio/Beans.mp3" class="audioButton">Beans <br><span>Bala'</span></a></li>
+          <li><a href="audio/Can_I_eat.mp3" class="audioButton">Can I eat?<br><span>
+          <li><a href="audio/Come_to_eat_group.mp3" class="audioButton">Come to eat {group}. <br><span>Hashminticha impa.</span></a>
+          <li> <a href="audio/Come_to_eat_single_person.mp3" class="audioButton">Come to eat {single person}<br><span>Ishminticha impa.</span></a></li>
+          <li><a href="audio/Do_you_have_any_food.mp3" class="audioButton">Do you have any food? <br>
+          <li><a href="audio/Do_you_want_to_eat.mp3" class="audioButton">Do you want to eat? <br>
+          <li><a href="audio/Express_the_food_is_great.mp3" class="audioButton">The food is great! <br>
+          <li><a href="audio/Express_the_food_is_not_so_good.mp3" class="audioButton">The food is not so good. <br>
+          <li><a href="audio/Give_me_the_beans.mp3" class="audioButton">Give me the beans. <br>
+		  <li><a href="audio/Give_me_the.mp3" class="audioButton">Give me the... <br>
+		  <li><a href="audio/I_am_not_hungry.mp3" class="audioButton">I am not hungry.      <br> 	   <span>Sapoba ki'yo.</span></a></li>
+		  <li><a href="audio/I_am_not_tipping.mp3" class="audioButton">I am not tipping. <br>
+		  <li><a href="audio/I_am_tipping.mp3" class="audioButton">I am tipping.     <br>
+		  <li><a href="audio/I_want_some_biscuits_and_gravy.mp3" class="audioButton">I want some biscuits and gravy.   <br>
+		  <li><a href="audio/I_want_some_bread_and_butter.mp3" class="audioButton">I want some bread and butter. <br>
+		  <li><a href="audio/I_want_some_cake.mp3" class="audioButton">I want some cake. <br>
+		  <li><a href="audio/I_want_some_coffee.mp3" class="audioButton">I want some coffee. <br>
+		  <li><a href="audio/I_want_some_eggs_and_bacon.mp3" class="audioButton">I want some eggs and bacon. <br>
+		 <li><a href="audio/I_want_some_food.mp3" class="audioButton">I want some food. <br>
+		 <li><a href="audio/I_want_some_fried_chicken.mp3" class="audioButton">I want some fried chicken.    <br>      
+		 <li><a href="audio/I_want_some_fries.mp3" class="audioButton">I want some fries. <br>
+		 <li><a href="audio/I_want_some_fruits.mp3" class="audioButton">I want some fruits. <br>
+		 <li><a href="audio/I_want_some_frybread.mp3" class="audioButton">I want some frybread. <br>
+		 <li><a href="audio/I_want_some_green_beans.mp3" class="audioButton">I want some green beans. <br>
+		 <li><a href="audio/I_want_some_hamburgers.mp3" class="audioButton">I want some hamburgers. <br>
+		<li><a href="audio/I_want_some_ice_cream.mp3" class="audioButton">I want some ice cream. <br>
+		<li><a href="audio/I_want_some_meat.mp3" class="audioButton">I want some meat. <br>
+		<li><a href="audio/I_want_some_pie.mp3" class="audioButton">I want some pie. <br>
+		<li><a href="audio/I_want_some_potatoes.mp3" class="audioButton">I want some potatoes. <br>
+		<li><a href="audio/I_want_some_soda_pop.mp3" class="audioButton">I want some sodapop. <br>
+		<li><a href="audio/I_want_some_vegetables.mp3" class="audioButton">I want some vegetables. <br>
+		<li><a href="audio/I_want_to_eat.mp3" class="audioButton">I want to eat. <br>
+		<li><a href="audio/Is_there_anything_to_eat_here.mp3" class="audioButton">Is there anything to eat here? <br>
+		<li><a href="audio/Pass_the_salt_and_pepper.mp3" class="audioButton">Pass the salt and pepper.	<br>
+		<li><a href="audio/something_sweet.mp3" class="audioButton">Something sweet <br>
+		<li><a href="audio/The_beans_are_very_good.mp3" class="audioButton">The beans are very good. <br>
+		<li><a href="audio/The_service_in_the_restaurant_is_good.mp3" class="audioButton">The service in the restaurant is good. <br>
+		<li><a href="audio/The_service_is_terrible.mp3" class="audioButton">The service is terrible. <br>
+		<li><a href="audio/What_do_you_want_to_drink.mp3" class="audioButton">What do you want to drink? <br>
+		<li><a href="audio/What_do_you_want_to_eat.mp3" class="audioButton">What do you want to eat? <br>
+		<li><a href="audio/What_have_you_got_to_eat.mp3" class="audioButton">What have you got to eat? <br>
+		<li><a href="audio/Where_can_I_get_something_to_eat.mp3" class="audioButton">Where can I get something to eat? <br>
+		<li><a href="audio/You_dont_have_to_cook.mp3" class="audioButton">You don't have to cook. <br>
+		<li><a href="audio/I_want_some_water.mp3" class="audioButton">I want some water.	<br>
+   		<a href="audio/Arm.mp3" class="audioButton">Arm
+   		<a href="audio/Back.mp3" class="audioButton">Back
+      	<a href="audio/Beard.mp3" class="audioButton">Beard
+      	<a href="audio/Bellybutton.mp3" class="audioButton">Bellybutton
+      <li> <a href="audio/Blood.mp3" class="audioButton">Blood
+      <li> <a href="audio/Body.mp3" class="audioButton">Body
+      <li> <a href="audio/Bone.mp3" class="audioButton">Bone
+      <li> <a href="audio/Chest.mp3" class="audioButton">Chest
+      <li> <a href="audio/Chin.mp3" class="audioButton">Chin
+      <li> <a href="audio/Ears.mp3" class="audioButton">Ears
+      	<a href="audio/Elbow.mp3" class="audioButton">Elbow
+      	<a href="audio/Eye.mp3" class="audioButton">Eye
+      	<a href="audio/Eyebrows.mp3" class="audioButton">Eyebrows
+      	<a href="audio/Eyelashes.mp3" class="audioButton">Eyelashes
+      	<a href="audio/Feet.mp3" class="audioButton">Feet
+      	<a href="audio/Finters.mp3" class="audioButton">Fingers
+      	<a href="audio/Hair.mp3" class="audioButton">Hair
+      	<a href="audio/Hand.mp3" class="audioButton">Hand
+      	<a href="audio/Head.mp3" class="audioButton">Head
+      	<a href="audio/Heart.mp3" class="audioButton">Heart
+      	<a href="audio/Intestines.mp3" class="audioButton">Intestines
+      	<a href="audio/Knee.mp3" class="audioButton">Knee
+      	<a href="audio/Leg.mp3" class="audioButton">Leg
+      	<a href="audio/Liver.mp3" class="audioButton">Liver
+      	<a href="audio/Mouth.mp3" class="audioButton">Mouth
+      	<a href="audio/Muscle_Tendons.mp3" class="audioButton">Muscle, Tendon, Nerve
+      	<a href="audio/Neck.mp3" class="audioButton">Neck
+      	<a href="audio/Nose.mp3" class="audioButton">Nose
+      	<a href="audio/Ribs.mp3" class="audioButton">Rib
+      	<a href="audio/Shoulder.mp3" class="audioButton">Shoulder
+      	<a href="audio/Stomach_belly.mp3" class="audioButton">Stomach, Belly
+      	<a href="audio/Tooth.mp3" class="audioButton">Tooth?????????????????????????
+      	<a href="audio/Thigh.mp3" class="audioButton">Thigh
+      	<a href="audio/Thumb.mp3" class="audioButton">Thumb
+      	<a href="audio/Toes.mp3" class="audioButton">Toes
+      	<a href="audio/Tongue.mp3" class="audioButton">Tongue
+      	<a href="audio/This_is_a.mp3" class="audioButton">This is a…
+      	<a href="audio/This_is_a_dog.mp3" class="audioButton">This is a dog
+      	<a href="audio/Dog.mp3" class="audioButton">Dog
+      	<a href="audio/Alligator.mp3" class="audioButton">Alligator
+      	<a href="audio/Bear.mp3" class="audioButton">Bear
+      	<a href="audio/Beaver.mp3" class="audioButton">Beaver
+      	<a href="audio/Bird .mp3" class="audioButton">Bird
+      	<a href="audio/Blackbird.mp3" class="audioButton">Blackbird
+      	<a href="audio/Buffalo.mp3" class="audioButton">Buffalo
+      	<a href="audio/Bug.mp3" class="audioButton">Bug
+      	<a href="audio/Cat.mp3" class="audioButton">Cat
+      	<a href="audio/Chicken.mp3" class="audioButton">Chicken
+      	<a href="audio/Coyote.mp3" class="audioButton">Coyote
+      	<a href="audio/Crow.mp3" class="audioButton">Crow
+      	<a href="audio/Deer.mp3" class="audioButton">Deer
+      	<a href="audio/Eagle.mp3" class="audioButton">Eagle
+      	<a href="audio/Elk.mp3" class="audioButton">Elk
+      	<a href="audio/Fish.mp3" class="audioButton">Fish
+      	<a href="audio/Fox .mp3" class="audioButton">Fox
+      	<a href="audio/Frog.mp3" class="audioButton">Frog
+      	<a href="audio/Gopher.mp3" class="audioButton">Gopher
+      	<a href="audio/Hawk.mp3" class="audioButton">Hawk
+      	<a href="audio/Horse.mp3" class="audioButton">Horse
+      	<a href="audio/Lizard.mp3" class="audioButton">Lizard
+      	<a href="audio/Mouse .mp3" class="audioButton">Mouse
+      	<a href="audio/Owl.mp3" class="audioButton">Owl
+      	<a href="audio/Panther.mp3" class="audioButton">Panther
+      	<a href="audio/Rabbit.mp3" class="audioButton">Rabbit
+      	<a href="audio/Raccoon.mp3" class="audioButton">Raccoon
+      	<a href="audio/Red_fox.mp3" class="audioButton">Red Fox
+      	<a href="audio/Skunk.mp3" class="audioButton">Skunk
+      	<a href="audio/Snake.mp3" class="audioButton">Snake
+      	<a href="audio/Spider.mp3" class="audioButton">Spider
+      	<a href="audio/Squirrel.mp3" class="audioButton">Squirrel
+      	<a href="audio/Turkey.mp3" class="audioButton">Turkey
+      	<a href="audio/Turtle.mp3" class="audioButton">Turtle
+      	<a href="audio/Wildcat.mp3" class="audioButton">Wildcat
+      	<a href="audio/Wolf.mp3" class="audioButton">Wolf
+      	<a href="audio/Mother.mp3" class="audioButton">Mother
+      	<a href="audio/Father.mp3" class="audioButton">Father
+      	<a href="audio/Grandmother.mp3" class="audioButton">Grandmother
+      	<a href="audio/Grandfather.mp3" class="audioButton">Grandfather
+      	<a href="audio/Grandchild.mp3" class="audioButton">Grandchild
+      	<a href="audio/Uncle.mp3" class="audioButton">Uncle
+      	<a href="audio/Aunt.mp3" class="audioButton">Aunt
+      	<a href="audio/Husband.mp3" class="audioButton">Husband
+      	<a href="audio/Wife.mp3" class="audioButton">Wife
+      	<a href="audio/Brother.mp3" class="audioButton">Brother
+      	<a href="audio/Sister.mp3" class="audioButton">Sister
+      	<a href="audio/Daughter.mp3" class="audioButton">Daughter
+      	<a href="audio/Son.mp3" class="audioButton">Son
+      	<a href="audio/One.mp3" class="audioButton">One
+      	<a href="audio/Two.mp3" class="audioButton">Two
+      	<a href="audio/Three.mp3" class="audioButton">Three
+      	<a href="audio/Four.mp3" class="audioButton">Four
+      	<a href="audio/Five.mp3" class="audioButton">Five
+      	<a href="audio/Six.mp3" class="audioButton">Six
+      	<a href="audio/Seven.mp3" class="audioButton">Seven
+      	<a href="audio/Eight.mp3" class="audioButton">Eight
+      	<a href="audio/Nine.mp3" class="audioButton">Nine
+      	<a href="audio/Ten.mp3" class="audioButton">Ten
+      	<a href="audio/Eleven.mp3" class="audioButton">Eleven
+      	<a href="audio/Twelve.mp3" class="audioButton">Twelve
+      	<a href="audio/Thirteen.mp3" class="audioButton">Thirteen
+      	<a href="audio/Fourteen.mp3" class="audioButton">Fourteen
+      <a href="audio/Fifteen.mp3" class="audioButton">Fifteen
+      	<a href="audio/Sixteen.mp3" class="audioButton">Sixteen
+      	<a href="audio/Seventeen.mp3" class="audioButton">Seventeen
+      	<a href="audio/Eighteen.mp3" class="audioButton">Eighteen
+      	<a href="audio/Nineteen.mp3" class="audioButton">Nineteen
+      <li><a href="audio/Twenty.mp3" class="audioButton">Twenty
+      <li><a href="audio/Thirty.mp3" class="audioButton">Thirty
+      <li><a href="audio/Forty.mp3" class="audioButton">Forty
+      <li><a href="audio/Fifty.mp3" class="audioButton">Fifty
+      <li><a href="audio/Sixty.mp3" class="audioButton">Sixty
+      <li><a href="audio/Seventy.mp3" class="audioButton">Seventy
+      <li><a href="audio/Eighty.mp3" class="audioButton">Eighty
+      <li><a href="audio/Ninety.mp3" class="audioButton">Ninety
+      <li><a href="audio/One_hundred.mp3" class="audioButton">One Hundred
+      <li><a href="audio/One_thousand.mp3" class="audioButton">One Thousand
+      <li><a href="audio/Yellow.mp3" class="audioButton">Yellow
+      <li><a href="audio/Red.mp3" class="audioButton">Red
+      <li><a href="audio/Pink.mp3" class="audioButton">Pink
+      <li><a href="audio/Green.mp3" class="audioButton">Green
+      <li><a href="audio/Blue.mp3" class="audioButton">Blue
+      <li><a href="audio/Brown.mp3" class="audioButton">Brown
+      <li><a href="audio/Orange.mp3" class="audioButton">Orange
+      <li><a href="audio/Purple.mp3" class="audioButton">Purple
+      <li><a href="audio/Gray.mp3" class="audioButton">Gray
+      <li><a href="audio/Black.mp3" class="audioButton">Black
+      <li><a href="audio/White.mp3" class="audioButton">White
+      <li><a href="audio/Rainbow.mp3" class="audioButton">Rainbow
+      <li><a href="audio/Colors.mp3" class="audioButton">Colors
+      <li><a href="audio/Be_nice.mp3" class="audioButton">Be nice. <br><span>Chinokchinta'shki.</span></a></li>
+      <li><a href="audio/Be_quiet.mp3" class="audioButton">Be quiet. <br><span>Chokkilissa.</span></a></li>
+      <li><a href="audio/Be_wise.mp3" class="audioButton">Be wise. <br><span>Imponna.</span></a></li>
+      <li><a href="audio/Buy_it.mp3" class="audioButton">Buy it. <br><span>Chompa.</span></a></li>
+      <li><a href="audio/Clean_this_house.mp3" class="audioButton">Clean this house. <br><span>Aboo yappa chofalli.</span></a></li>
+      <li><a href="audio/Clean_this_up.mp3" class="audioButton">Clean this up. <br><span>Yappa chofalli.</span></a></li>
+      <li><a href="audio/Come and visit.mp3" class="audioButton">Come and visit. <br><span>Minti cha anchokkaalaa.</span></a></li>
+      <li><a href="audio/Come_in.mp3" class="audioButton">Come in. <br><span>Chokkowa.</span></a></li>
+      <li><a href="audio/Come_over_here.mp3" class="audioButton">Come over here. <br><span>Mintibaa.</span></a></li>
+      <li><a href="audio/Cover_this_up.mp3" class="audioButton">Cover this up. <br><span>Yappa alhiibli.</span></a></li>
+      <li><a href="audio/Dont_do_that.mp3" class="audioButton">Don't do that. <br><span>Yamminna.</span></a></li>
+      <li><a href="audio/Get_up.mp3" class="audioButton">Get up. <br><span>Hika.</span></a></li>
+      <li><a href="audio/Go_away.mp3" class="audioButton">Go away. <br><span>Aya.</span></a></li>
+      <li><a href="audio/Go_home_now.mp3" class="audioButton">Go home now. <br><span>Chinchokka' mako'sa aya.</span></a></li>
+      <li><a href="audio/Got_to_town.mp3" class="audioButton">Go to town. <br><span>Aachompa' aya.</span></a></li>
+      <li><a href="audio/Hear_me.mp3" class="audioButton">Hear me. <br><span>Sahánglo.</span></a></li>
+      <li><a href="audio/Lets_dance.mp3" class="audioButton">Let's dance. <br><span>Ilihilha'.</span></a></li>
+      <li><a href="audio/Lets_go_eat.mp3" class="audioButton">Let's go eat. <br><span>Ilimpat liya.</span></a></li>
+      <li><a href="audio/Lets_go_play_outside.mp3" class="audioButton">Let's go play outside. <br><span>Kochchat ayat ilichokoshkomo'.</span></a></li>
+      <li><a href="audio/Lets_go_to_church.mp3" class="audioButton">Let's go to church. <br><span>Aaittanaha' iliya'.</span></a></li>
+      <li><a href="audio/Lets_go.mp3" class="audioButton">Let's go. <br><span>Iliya'.</span></a></li>
+      <li><a href="audio/Lets_help_them.mp3" class="audioButton">Let's all help them. <br><span>Loapila'.</span></a></li>
+      <li><a href="audio/Lets_play_stickball.mp3" class="audioButton">Let's play stickball. <br><span>Kapochcha' ilito'li'!</span></a></li>
+      <li><a href="audio/Look.mp3" class="audioButton">Look. <br><span>Pisa.</span></a></li>
+      <li><a href="audio/Make_some_frybread.mp3" class="audioButton">Make some frybread. <br> <span>Paska awaalhali' ikbi.</span></a></li>
+      <li><a href="audio/Put_on_your_jacket.mp3" class="audioButton">Put on your jacket <br><span>Chinaafkishto' fokha.</span></a></li>
+      <li><a href="audio/Put_on_your_shoes.mp3" class="audioButton">Put on your shoes. <br> <span>Chisholosh hollo.</span></a></li>
+      <li><a href="audio/Put_your_hat_on.mp3" class="audioButton">Put your hat on. <br><span>Chiyaalhipa' fokha.</span></a></li>
+      <li><a href="audio/Say_it.mp3" class="audioButton">Say it. <br><span>Aachi.</span></a></li>
+      <li><a href="audio/Shake_my_hand.mp3" class="audioButton">Shake my hand. <br><span>Salbak sayoppachi.</span></a></li>
+      <li><a href="audio/Show_me.mp3" class="audioButton">Show me. <br><span>Sapisa'chi.</span></a></li>
+      <li><a href="audio/Sit_down.mp3" class="audioButton">Sit down. <br><span>Binnili.</span></a></li>
+      <li><a href="audio/Sit_quiet.mp3" class="audioButton">Sit quietly. <br> <span>Chokillisaat binnili.</span></a></li>
+      <li><a href="audio/Sorry.mp3" class="audioButton">Sorry. <br><span> Nokhánglo.</span></a></li>
+      <li><a href="audio/Stand_up.mp3" class="audioButton">Stand up. <br><span>Hika.</span></a></li>
+      <li><a href="audio/Stop_it.mp3" class="audioButton">Stop it. <br><span>Iissachi.</span></a></li>
+      <li><a href="audio/Talk_to_me.mp3" class="audioButton">Talk to me. <br><span>Amanompoli.</span></a></li>
+      <li><a href="audio/Tell_me_a_story.mp3" class="audioButton">Tell me a story. <br><span>Nanna anoli amanoli.</span></a></li>
+      <li><a href="audio/Tell_me.mp3" class="audioButton">Tell me. <br><span>Amanoli.</span></a></li>
+      <li><a href="audio/Tell_the_truth.mp3" class="audioButton">Tell the truth. <br><span>Alhlhi anoli.</span></a></li>
+      <li><a href="audio/Turn_the_light_on.mp3" class="audioButton">Turn the light on. <br><span>Aashoppala' aashoppalali.</span></a></li>
+      <li><a href="audio/Wait_here.mp3" class="audioButton">Wait here. <br><span>Yappa himóna.</span></a></li>
+      <li><a href="audio/Wait_over_there.mp3" class="audioButton">Wait over there. <br><span>Misha pila himóna.</span></a></li>
+      <li><a href="audio/You_better_watch_out.mp3" class="audioButton">You better watch out. <br><span>Yammisha'na'shki!</span></a></li>
+      <li><a href="audio/You_must_come_with_me.mp3" class="audioButton">You must come with me. <br><span>Issabaya'shki.</span></a></li>
+      <li><a href="audio/People.mp3" class="audioButton">People
+      <li><a href="audio/Woman.mp3" class="audioButton">Woman
+      <li><a href="audio/Man.mp3" class="audioButton">Man
+      <li><a href="audio/Child.mp3" class="audioButton">Child
+      <li><a href="audio/Baby.mp3" class="audioButton">Baby
+      <li><a href="audio/Boy.mp3" class="audioButton">Boy
+      <li><a href="audio/BoyTeenage.mp3" class="audioButton">Boy, teenage
+      <li><a href="audio/Girl.mp3" class="audioButton">Girl
+      <li><a href="audio/GirlTeenage.mp3" class="audioButton">Girl, teenage
+      <li><a href="audio/Elder.mp3" class="audioButton">Elder
+      <li><a href="audio/Chief.mp3" class="audioButton">Chief
+      <li><a href="audio/Deceased.mp3" class="audioButton">Deceased
+      <li><a href="audio/IndianPeople.mp3" class="audioButton">Indian People
+      <li><a href="audio/IndianMan.mp3" class="audioButton">Indian man
+      <li><a href="audio/IndianWoman.mp3" class="audioButton">Indian woman
+      <li><a href="audio/IndianTribes.mp3" class="audioButton">Indian tribes
+      <li><a href="audio/Boss.mp3" class="audioButton">Boss
+      <li><a href="audio/Dentist.mp3" class="audioButton">Dentist
+      <li><a href="audio/Doctor.mp3" class="audioButton">Doctor
+      <li><a href="audio/Fireman.mp3" class="audioButton">Fireman
+      <li><a href="audio/MailCarrier.mp3" class="audioButton">Mail Carrier
+      <li><a href="audio/Nurse.mp3" class="audioButton">Nurse
+      <li><a href="audio/PoliceOfficer.mp3" class="audioButton">Police Officer
+      <li><a href="audio/Soldier.mp3" class="audioButton">Soldier
+      <li><a href="audio/Teacher.mp3" class="audioButton">Teacher
+      <li><a href="audio/BlackBerryPhone.mp3" class="audioButton">BlackBerry Phone <br><span>Bissa' Losa'</span></a></li>
+      <li><a href="audio/Camera.mp3" class="audioButton">Camera <br><span>Ishtholbachi'</span></a></li>
+      <li><a href="audio/CellPhone.mp3" class="audioButton">Cell Phone <br><span>Talanompoli', talaanompa' ishtáa'</span></a></li>
+      <li><a href="audio/Computer.mp3" class="audioButton">Computer <br><span>Tali' lopi', tali' aaithána'</span></a></li>
+      <li><a href="audio/Email.mp3" class="audioButton">Email <br><span>Holisso palhki'</span></a></li>
+      <li><a href="audio/Internet.mp3" class="audioButton">Internet <br><span>Tali' lopi' lawa', tali' ithána' lawa'</span></a></li>
+      <li><a href="audio/iPodnew.mp3" class="audioButton">iPod <br><span>Nanola'</span></a></li>
+      <li><a href="audio/Memorandum.mp3" class="audioButton">Memorandum <br><span>Holisso pilachi'</span></a></li>
+      <li><a href="audio/Phone.mp3" class="audioButton">Phone <br><span>Talaanompa', tali' anompoli'</span></a></li>
+      <li><a href="audio/Teleconferencing.mp3" class="audioButton">Teleconferencing <br><span>Holba' aaittafamma anompoli'</span></a></li>
+      <li><a href="audio/Television.mp3" class="audioButton">Television <br><span>Holba' aapisa'</span></a></li>
+      <li><a href="audio/VideoGame.mp3" class="audioButton">Video Game <br><span>Holba' ishtchokoshkomo'</span></a></li>
+      <li><a href="audio/VideoPlayer.mp3" class="audioButton">Video player / video <br><span>Holba' aapisa'</span></a></li>
+      <li><a href="audio/Autumn.mp3" class="audioButton">Autumn <br><span>Hashtola' ámmo'na'</span></a></li>
+      <li><a href="audio/Hows_the_weather.mp3" class="audioButton">How's the weather? <br><span>Kochcha' katihmi? </span></a></li>
+      <li><a href="audio/It_is_cloudy.mp3" class="audioButton">It is cloudy. <br><span>Hoshonti.</span></a></li>
+      <li><a href="audio/It_is_hailing.mp3" class="audioButton">It is hailing. <br><span>Bachalosha.</span></a></li>
+      <li><a href="audio/It_is_raining.mp3" class="audioButton">It is raining. <br><span>Omba.</span></a></li>
+      <li><a href="audio/It_is_snowing.mp3" class="audioButton">It is snowing. <br><span>Oktosha.</span></a></li>
+      <li><a href="audio/It_is_sunny.mp3" class="audioButton">It is sunny. <br><span>Hashi' toomi.</span></a></li>
+      <li><a href="audio/It_is_windy.mp3" class="audioButton">It is windy. <br><span>Mahli.</span></a></li>
+      <li><a href="audio/Its_a_cold_day .mp3" class="audioButton">It's a cold day. <br><span>Himmaka nittakat kapassa.</span></a></li>
+      <li><a href="audio/Its_a_warm_day.mp3" class="audioButton">It's a warm day. <br><span>Himmaka nittakat lashpa.</span></a></li>
+      <li><a href="audio/Snow.mp3" class="audioButton">Snow <br><span>Okti'</span></a></li>
+      <li><a href="audio/Spring.mp3" class="audioButton">Spring <br><span>Toompalli' Ishtayya'</span></a></li>
+      <li><a href="audio/Summer.mp3" class="audioButton">Summer <br><span>Toompalli'</span></a></li>
+      <li><a href="audio/The_sky_is_dark.mp3" class="audioButton">The sky is dark. <br><span>Shotikat oklhilli.</span></a></li>
+      <li><a href="audio/The_sun_is_rising.mp3" class="audioButton">The sun is rising. <br><span>Hashiat kochcha.</span></a></li>
+      <li><a href="audio/The_sun_is_setting.mp3" class="audioButton">The sun is setting. <br><span>Hashiat ittola.</span></a></li>
+      <li><a href="audio/The_sun_rises_in_the_east_and_sets_in_the_west.mp3" class="audioButton">The sun rises in the east and sets in the west. <br><span>Hashaakochcha' hashiat kochcha cha hashaakottola' hashiat ittola.</span></a></li>
+      <li><a href="audio/The_weather_is_bad.mp3" class="audioButton">The weather is bad. <br><span>Kochchaat ikchokmo.</span></a></li>
+      <li><a href="audio/The_weather_is_good.mp3" class="audioButton">The weather is good. <br><span>Kochchaat chokma.</span></a></li>
+      <li><a href="audio/Winter.mp3" class="audioButton">Winter <br><span>Hashtola'</span></a></li>
+      <li><a href="audio/Day.mp3" class="audioButton">Day
+      <li><a href="audio/Week.mp3" class="audioButton">Week
+      <li><a href="audio/Month.mp3" class="audioButton">Month
+      <li><a href="audio/Year.mp3" class="audioButton">Year
+      <li><a href="audio/Hour.mp3" class="audioButton">Hour
+      <li><a href="audio/Minute.mp3" class="audioButton">Minute
+      <li><a href="audio/Midday.mp3" class="audioButton">Mid day / Lunch	time
+      <li><a href="audio/Time.mp3" class="audioButton">Time
+      <li><a href="audio/Clock.mp3" class="audioButton">Clock
+      <li><a href="audio/Future.mp3" class="audioButton">Future
+      <li><a href="audio/Past.mp3" class="audioButton">Past
+      <li><a href="audio/Present.mp3" class="audioButton">Present
+      <li><a href="audio/Ancienttime.mp3" class="audioButton">Ancient time
+      <li><a href="audio/Baptize.mp3" class="audioButton">Baptize
+      <li><a href="audio/Bible.mp3" class="audioButton">Bible
+      <li><a href="audio/Christian.mp3" class="audioButton">Christian
+      <li><a href="audio/Church.mp3" class="audioButton">Church
+      <li><a href="audio/Dream.mp3" class="audioButton">Dream
+      <li><a href="audio/God.mp3" class="audioButton">God
+      <li><a href="audio/GreatSpirit.mp3" class="audioButton">Great Spirit
+      <li><a href="audio/Groundearth.mp3" class="audioButton">Ground, Earth
+      <li><a href="audio/Hymn.mp3" class="audioButton">Hymn
+      <li><a href="audio/Jesus.mp3" class="audioButton">Jesus
+      <li><a href="audio/LittlePeople.mp3" class="audioButton">Little People
+      <li><a href="audio/medicineperson.mp3" class="audioButton">Medicine Person
+      <li><a href="audio/Moon.mp3" class="audioButton">Moon
+      <li><a href="audio/Preacher.mp3" class="audioButton">Preacher
+      <li><a href="audio/Religion.mp3" class="audioButton">Religion
+      <li><a href="audio/Stompdance.mp3" class="audioButton">Stompdance
+      <li><a href="audio/Stompground.mp3" class="audioButton">Stomp ground
+      <li><a href="audio/Sun.mp3" class="audioButton">Sun
+      <li><a href="audio/Truth.mp3" class="audioButton">Truth
+      <li><a href="audio/Beads.mp3" class="audioButton">Beads
+      <li><a href="audio/Belt.mp3" class="audioButton">Belt
+      <li><a href="audio/Blanket.mp3" class="audioButton">Blanket
+      <li><a href="audio/BreechCloth.mp3" class="audioButton">Breech Cloth
+      <li><a href="audio/Buckskin.mp3" class="audioButton">Buckskin
+      <li><a href="audio/BuckskinShirt.mp3" class="audioButton">Buckskin Shirt
+      <li><a href="audio/Canvas.mp3" class="audioButton">Canvas
+      <li><a href="audio/Cloth.mp3" class="audioButton">Cloth
+      <li><a href="audio/Clothes.mp3" class="audioButton">Clothes
+      <li><a href="audio/Eaglefeathers.mp3" class="audioButton">Eagle feathers
+      <li><a href="audio/Feathers.mp3" class="audioButton">Feathers
+      <li><a href="audio/Hat.mp3" class="audioButton">Hat / headdress
+      <li><a href="audio/Hide.mp3" class="audioButton">Hide
+      <li><a href="audio/Hoovesnails.mp3" class="audioButton">Hoof, nail
+      <li><a href="audio/Metal.mp3" class="audioButton">Metal
+      <li><a href="audio/Moccasins.mp3" class="audioButton">Shoes / Moccasins
+      <li><a href="audio/Needle.mp3" class="audioButton">Needle
+      <li><a href="audio/Outfit.mp3" class="audioButton">Outfit
+      <li><a href="audio/Ribbon.mp3" class="audioButton">Ribbon
+      <li><a href="audio/Ribbonshirt.mp3" class="audioButton">Ribbon shirt
+      <li><a href="audio/Scissors.mp3" class="audioButton">Scissors
+      <li><a href="audio/Shellsturtle.mp3" class="audioButton">Shell
+      <li><a href="audio/Thread.mp3" class="audioButton">Thread
+  		<li><a href="audio/Its dark.mp3" class="audioButton">It's dark.<br><span>Oklhili.</span></a></li>
+  		<li><a href="audio/The dancers are all here.mp3" class="audioButton">The dancers are all here.<br><span>Hilha' hoomóma áyya'sha.</span></a></li>
+  		<li><a href="audio/The fire has been kindled.mp3" class="audioButton">The fire has been kindled.<br><span>Lowak ootitok.</span></a></li>
+  		<li><a href="audio/The_men_are_sitting_under_the_arbors.mp3" class="audioButton">The men are sitting in the arbors.<br><span>Hattak alhihaat chishanko tomaat hoobínohtmáa.</span></a></li>
+  		<li><a href="audio/The chief is calling them out to sing.mp3" class="audioButton">The chief is calling them out to sing.<br><span>Minkoat hootaloowachi iwaa.</span></a></li>
+  		<li><a href="audio/The men say hoo and walk out to dance.mp3" class="audioButton">The men say 'hoo' and walk outto dance.<br><span>Hattak alhihaat 'hoo' aashcha nowaat hilha'chi.</span></a></li>
+  		<li><a href="audio/He will lead the stompdance.mp3" class="audioButton">He will lead the stomp dance.<br><span>Intikbayka'chi.</span></a></li>
+  		<li><a href="audio/That woman is the lead shell shaker.mp3" class="audioButton">That woman is the lead shell shaker.<br><span>Ihoopat tikba loksi' shaali'.</span></a></li>
+  		<li><a href="audio/Women with turtle shakers go first.mp3" class="audioButton">Women with turtle shakers go first.<br><span>Ihoo alhihaat loksi' hooshaalika tingba aya.</span></a></li>
+  		<li><a href="audio/It sounds really good.mp3" class="audioButton">It sounds really good.<br><span>Hakloka chokma!</span></a></li>
+  		<li><a href="audio/I like the garfish dance best.mp3" class="audioButton">I like the garfish dance best.<br><span>Nani' kallo' hilhaako ayyopánshli imáyya.</span></a></li>
+  		<li><a href="audio/The_garfish_dance_is_an_old_dance.mp3" class="audioButton">The garfish dance is an old dance.<br><span>Nani' kallo' hilhaat hilha' sipokni'.</span></a></li>
+  		<li><a href="audio/I hope we sing the stealing partners dance.mp3" class="audioButton">I hope we sing the Stealing Partners dance.<br><span>Ayannili Honkopa' Hilha' ilitaloowachika.</span></a></li>
+  		<li><a href="audio/This dance uses a drum.mp3" class="audioButton">This dance uses a drum.<br><span>Talhipa' yappa ishtihilha'chi.</span></a></li>
+  		<li><a href="audio/The Chickasaw people danced all the time in the homelands.mp3" class="audioButton">The Chickasaw people danced all the time in the homelands.<br><span>Chikashsha' alhiha' iyaakni' sipokni' hoohilha bílli'yanatook.</span></a></li>
+  		<li><a href="audio/After Removal the Chickasaw people still danced.mp3" class="audioButton">After Removal the Chickasaw people could still dance.<br><span>Hoowihaat alakma Chikashsha alhihaat hoohilhani'took</span>.</a></li>
+  		<li><a href="audio/When the last doctor died the Chickasaw quit dancing for a while.mp3" class="audioButton">When the last doctor died the Chickasaw quit dancing for a while.<br><span>Alikchi' ishtalhlhi' illika Chikashsha alhihaat hooaaissachitook hilhaka.</span></a></li>
+  		<li><a href="audio/The_young_people_thought_that_they_should_start_dancing_again_so_they_did.mp3" class="audioButton">The young people thought that they should start dancing again, so they did.<br><span>Himmita' alhihaat anokfillika hoottibaahilhamakila micha hooyammitok.</span></a></li>
+  		<li><a href="audio/Now we dance at Kalihomma' and across the river with the Creeks, Seminoles, Yuchis and Cherokees.mp3" class="audioButton">Now we dance at Kalihomma' and across the river with the Creeks, Seminoles, Yuchis and Cherokees.<br><span>Mako'no Kalihommaako loottibaahilha micha abokoshi' intannap Mashkooki', Shimmanooli', Yochi', Chalaaki' iloottibaahilha</span>.</a></li>
+  		<li><a href="audio/The Chickasaw people will dance, until the world ends.mp3" class="audioButton">The Chickasaw people will dance, until the world ends.<br><span>Nittak ishtayyopi ona'chi Chikashsha alhihaat hoottibaahílhachinka</span>.</a></li>
+  		<li><a href="audio/January.mp3" class="audioButton">January
+  		<li><a href="audio/February.mp3" class="audioButton">February
+  		<li><a href="audio/March.mp3" class="audioButton">March
+  		<li><a href="audio/April.mp3" class="audioButton">April
+  		<li><a href="audio/May.mp3" class="audioButton">May
+  		<li><a href="audio/June.mp3" class="audioButton">June
+  		<li><a href="audio/July.mp3" class="audioButton">July
+  		<li><a href="audio/August.mp3" class="audioButton">August
+  		<li><a href="audio/September.mp3" class="audioButton">September
+  		<li><a href="audio/October.mp3" class="audioButton">October
+  		<li><a href="audio/November.mp3" class="audioButton">November
+  		<li><a href="audio/December.mp3" class="audioButton">December
+ 		<li><a href="audio/Sunday.mp3" class="audioButton">Sunday
+      	<li><a href="audio/Monday.mp3" class="audioButton">Monday
+      	<li><a href="audio/Tuesday.mp3" class="audioButton">Tuesday
+      	<li><a href="audio/Wednesday.mp3" class="audioButton">Wednesday
+      	<li><a href="audio/Thursday.mp3" class="audioButton">Thursday
+      	<li><a href="audio/Friday.mp3" class="audioButton">Friday
+      	<li><a href="audio/Saturday.mp3" class="audioButton">Saturday
+    	<li><a href="audio/Januaryhumes.mp3" class="audioButton">January<br><span>Hushi Ummona</span></a></li>
+    	<li><a href="audio/Februaryhumes.mp3" class="audioButton">February<br><span>Hushi Atuklo</span></a></li>
+    	<li><a href="audio/Marchhumes.mp3" class="audioButton">March<br><span>Hushi Atuchina</span></a></li>
+    	<li><a href="audio/Aprilhumes.mp3" class="audioButton">April<br><span>Eplul</span></a></li>
+    	<li><a href="audio/Mayhumes.mp3" class="audioButton">May<br><span>Me</span></a></li>
+    	<li><a href="audio/Junehumes.mp3" class="audioButton">June<br><span>Chun</span></a></li>
+    	<li><a href="audio/Julyhumes.mp3" class="audioButton">July<br><span>Chulai</span></a></li>
+    	<li><a href="audio/Augusthumes.mp3" class="audioButton">August<br><span>Akus</span></a></li>
+    	<li><a href="audio/Septemberhumes.mp3" class="audioButton">September<br><span>Septimpa</span></a></li>
+    	<li><a href="audio/Octoberhumes.mp3" class="audioButton">October<br><span>Uktopa</span></a></li>
+    	<li><a href="audio/Novemberhumes.mp3" class="audioButton">November<br><span>nofempa</span></a></li>
+    	<li><a href="audio/Decemberhumes.mp3" class="audioButton">December<br><span>Tecimba</span></a></li>
+    	<li><a href="audio/Sundayhumes.mp3" class="audioButton">Sunday<br><span>Ntak Hullo</span></a></li>
+    	<li><a href="audio/Mondayhumes.mp3" class="audioButton">Monday<br><span>Munti</span></a></li>
+    	<li><a href="audio/Tuesdayhumes.mp3" class="audioButton">Tuesday<br><span>Chosti</span></a></li>
+    	<li><a href="audio/Wednesdayhumes.mp3" class="audioButton">Wednesday<br><span>Winsti</span></a></li>
+    	<li><a href="audio/Thursdayhumes.mp3" class="audioButton">Thursday<br><span>Soisti</span></a></li>
+    	<li><a href="audio/Fridayhumes.mp3" class="audioButton">Friday<br><span>Nan Ulhchifa Nitak</span></a></li>
+    	<li><a href="audio/Saturdayhumes.mp3" class="audioButton">Saturday<br><span>Ntiak Hullo Nukfish</span></a></li>
+    	<li><a href="audio/Eyebrowshumes.mp3" class="audioButton">Eyebrows<br><span>Ishkin pukna heshi</span></a></li>
+    	<li><a href="audio/Eyelasheshumes.mp3" class="audioButton">Eyelashes<br><span>Ishkin oshullo</span></a></li>
+    	<li><a href="audio/Girlhumes.mp3" class="audioButton">Girl<br><span>Eho himita</span></a></li>
+    	<li><a href="audio/IndianTribeshumes.mp3" class="audioButton">Indian tribes<br><span>Aiyachufa</span></a></li>
+    	<li><a href="audio/Elderhumes.mp3" class="audioButton">Elder<br><span>Hatuk sipokni</span></a></li>
+    	<li><a href="audio/Deceasedhumes.mp3" class="audioButton">Deceased<br><span>Hatuk illi</span></a></li>
+    	<li><a href="audio/Baptizehumes.mp3" class="audioButton">Baptize<br><span>Baptismochi</span></a></li>
+    	<li><a href="audio/Christianhumes.mp3" class="audioButton">Christian<br><span>Uba anumpa yimmi</span></a></li>
+    	<li><a href="audio/Hymnhumes.mp3" class="audioButton">Hymn<br><span>Taloa</span></a></li>
+    	<li><a href="audio/Jesushumes.mp3" class="audioButton">Jesus<br><span>Chisus</span></a></li>
+    	<li><a href="audio/Truthhumes.mp3" class="audioButton">Truth<br><span><em>A</em>lhi</span></a></li>
+    	<li><a href="audio/Timehumes.mp3" class="audioButton">Time<br><span>Hushi kunitli ulhpisa</span></a></li>
+    	<li><a href="audio/AncientTimehumes.mp3" class="audioButton">Ancient Time<br><span>Hopaki</span></a></li>
+    	<li><a href="audio/Presenthumes.mp3" class="audioButton">Present<br><span>Himonasika</span></a></li>
+    	<li><a href="audio/Pasthumes.mp3" class="audioButton">Past<br><span>Otaiya</span></a></li>
+    	<li><a href="audio/Monthhumes.mp3" class="audioButton">Month<br><span>Hashi</span></a></li>
+    	<li><a href="audio/Hourhumes.mp3" class="audioButton">Hour<br><span>Hashi' kanalli</span></a></li>
+	<li><a href="audio/HatakHushPutaMa.mp3" class="audioButton">Hatak Hush Puta Ma!<br><span>Hatak Hush Puta Ma!</span></a></li>
+	<li><a href="audio/SinnercanyouhatetheSavior.mp3" class="audioButton">Sinner, can you hate the Savior<br><span>Uba Pin Chitokaka Yut</span></a></li>
+	<li><a href="audio/PrayertotheHolySpirit.mp3" class="audioButton">Prayer to the Holy Spirit<br><span>Shilombish Holitopa Ma!</span></a></li>
+    <li><a href="audio/MeditationonDeath.mp3" class="audioButton">Meditation on Death<br><span>Nitak Kanima Fehna ho</span></a></li>
+          mp3: "audio/Welcome1.mp3"
+      supplied: "mp3",
+          mp3: "audio/TheCurrentStateoftheChickasawLanguage.mp3"
+      supplied: "mp3",
+          mp3: "audio/ChickasawDialects.mp3"
+      supplied: "mp3",
+          mp3: "audio/ChickasawSpellingSystems.mp3"
+      supplied: "mp3",
+          mp3: "audio/TheChickasawLanguageRevitalizationProgram.mp3"
+      supplied: "mp3",
+                            <li><a class="audioButton" href="audio/1GlottalStop.mp3">' Glottal Stop</a></li>
+                            <li><a class="audioButton" href="audio/2a.mp3">a</a></li>
+                            <li><a class="audioButton" href="audio/3aa.mp3">aa</a></li>
+                            <li><a class="audioButton" href="audio/4a_underlined.mp3"><u>a</u></a></li>
+                            <li><a class="audioButton" href="audio/5b.mp3">b</a></li>
+                            <li><a class="audioButton" href="audio/6ch.mp3">ch</a></li>
+                            <li><a class="audioButton" href="audio/7f.mp3">f</a></li>
+                            <li><a class="audioButton" href="audio/8h.mp3">h</a></li>
+                            <li><a class="audioButton" href="audio/9i.mp3">i</a></li>
+                            <li><a class="audioButton" href="audio/10ii.mp3">ii</a></li>
+                            <li><a class="audioButton" href="audio/11i_underlined.mp3"><u>i</u></a></li>
+                            <li><a class="audioButton" href="audio/12k.mp3">k</a></li>
+                            <li><a class="audioButton" href="audio/13l.mp3">l</a></li>
+                            <li><a class="audioButton" href="audio/14lh.mp3">lh</a></li>
+                            <li><a class="audioButton" href="audio/15m.mp3">m</a></li>
+                            <li><a class="audioButton" href="audio/16n.mp3">n</a></li>
+                            <li><a class="audioButton" href="audio/17ng.mp3">ng</a></li>
+                            <li><a class="audioButton" href="audio/18o.mp3">o</a></li>
+                            <li><a class="audioButton" href="audio/19oo.mp3">oo</a></li>
+                            <li><a class="audioButton" href="audio/20o_underlined.mp3"><u>o</u></a></li>
+                            <li><a class="audioButton" href="audio/21p.mp3">p</a></li>
+                            <li><a class="audioButton" href="audio/22s.mp3">s</a></li>
+                            <li><a class="audioButton" href="audio/23sh.mp3">sh</a></li>
+                            <li><a class="audioButton" href="audio/24t.mp3">t</a></li>
+                            <li><a class="audioButton" href="audio/25w.mp3">w</a></li>
+                            <li><a class="audioButton" href="audio/26y.mp3">y</a></li>
+            	  <li><a class="audioButton" href="audio/Are_you_Indian.mp3">Are you Indian?<br /><span>Hattak api'ma' chiya?</span></a></li>
+                  <li><a class="audioButton" href="audio/Do_you_speak_Chickasaw.mp3">Do you speak Chickasaw?<br><span>Chikashshanompa' ishanompolitaa?</span></a></li>
+                  <li><a class="audioButton" href="audio/Have_a_nice_day.mp3">Have a nice day. <br><span>Chinittakat chinchokma'shki.</span></a></li>
+                  <li><a class="audioButton" href="audio/Hello_Chickasaw.mp3">Hello.   <br> <span>Hallito / chokma</span></a></li>
+                  <li><a class="audioButton" href="audio/Hello_how_are_you.mp3">Hello, how are you?  <br> <span>Hallito /chokma, chinchoma?</span></a></li>
+                  <li><a href="audio/How_old_are_you.mp3" class="audioButton">How old are you?    <br><span>Afammi kattohmi chimayya'sha?</span></a></li>
+                  <li><a href="audio/I_am_Chickasaw.mp3" class="audioButton">I am Chickasaw.   <br><span>Chikashsha saya.</span></a></li>
+                  <li><a href="audio/I_am_fine.mp3" class="audioButton">I am fine.     <br><span>Anchokma.</span></a></li>
+                  <li><a href="audio/I_am_from_Chickasaw.mp3" class="audioButton">I am from ...   <br><span>Aamintili...</span></a></li>
+                  <li><a href="audio/I_do_not_speak_Chickasaw_very_well.mp3" class="audioButton">I do not speak Chickasaw very well. <br><span>Chikashshanompa' anompolili chokma ki'yo.</span></a></li>
+                  <li><a href="audio/Its_going_to_rain.mp3" class="audioButton">It's going to rain.   <br><span>Omba'chi.</span></a></li>
+                  <li><a href="audio/My_family_is_from_Ada.mp3" class="audioButton">My family is from Ada.      <br><span>Anchokka-chaffaat Ada-ak<u>o</u> aaminti.</span></a></li>
+                  <li><a href="audio/My_name_is.mp3" class="audioButton">My name is ...    <br><span>Saholhchifoat ...</span></a></li>
+                  <li><a href="audio/What_is_your_family_name.mp3" class="audioButton">What is your family name?   <br><span>Chinchokka-chaffat nanta holhchifo?</span></a></li>
+                  <li><a href="audio/What_is_your_name.mp3" class="audioButton">What is your name?    <br><span>Nanta chilholhchifo?</span></a></li>
+                  <li><a href="audio/Where_are_you_from.mp3" class="audioButton">Where are you from?   <br><span>Katiyakta ishaamintitaa?</span></a></li>
+                  <li><a href="audio/You_speak_Chickasaw_very_well.mp3" class="audioButton">You speak Chickasaw very well.   <br><span>Chikashshanompa' ishanompoli chokma.</span></a></li>
+      <li><a href="audio/Who.mp3" class="audioButton">Who    <br><span>kata</span></a></li>
+      <li><a href="audio/Whose.mp3" class="audioButton">Whose  <br><span>kata</span></a></li>
+      <li><a href="audio/Whato.mp3" class="audioButton">What   <br><span>nanta</span></a></li>
+      <li><a href="audio/What color.mp3" class="audioButton">What color  <br><span>pisa-katihmi</span></a></li>
+      <li><a href="audio/What time.mp3" class="audioButton">What time   <br><span>hashi' kanalli nanta</span></a></li>
+      <li><a href="audio/When present.mp3" class="audioButton">When (present tense)  <br><span>kat<u>i</u>hkmak</span></a></li>
+      <li><a href="audio/When past tense.mp3" class="audioButton">When (past tense)   <br><span>kat<u>i</u>hkaash</span></a></li>
+      <li><a href="audio/Where.mp3" class="audioButton">Where   <br><span>katiyakta</span></a></li>
+      <li><a href="audio/Where is.mp3" class="audioButton">Where is   <br><span> ______ mano</span></a></li>
+      <li><a href="audio/Why.mp3" class="audioButton">Why   <br><span>katihmihta</span></a></li>
+      <li><a href="audio/How.mp3" class="audioButton">How   <br><span>kat<u>i</u>hsht</span></a></li>
+      <li><a href="audio/How in what manner.mp3" class="audioButton">How (in what manner)  <br><span>kaniht</span></a></li>
+      <li><a href="audio/How many.mp3" class="audioButton">How many  <br><span>kattohmi</span></a></li>
+      <li><a href="audio/How much does it cost.mp3" class="audioButton">How much does it cost?  <br><span>kattohmi ayalli</span></a></li>
+      <li><a href="audio/Which one.mp3" class="audioButton">Which one?    <br><span>katimpi</span></a></li>
+      <li><a href="audio/Hello are you good.mp3" class="audioButton">Hello, are you good?   <br><span>Hallito / chokma, chinchokma?</span></a></li>
+      <li><a href="audio/Yes and you.mp3" class="audioButton">Yes, and you?   <br><span><u>l</u>i, ishnoako?</span></a></li>
+      <li><a href="audio/Chickasaw language.mp3" class="audioButton">Chickasaw language  <br><span>Chikashshanompa'</span></a></li>
+      <li><a href="audio/English language.mp3" class="audioButton">English language   <br><span>Naahollimanompa'</span></a></li>
+      <li><a href="audio/I speak Chickasaw.mp3" class="audioButton">I speak Chickasaw   <br><span>Chikashshanompolili.</span></a></li>
+      <li><a href="audio/How_do_you_say.mp3" class="audioButton">How do you say _____?    <br><span>Kat<u>i</u>shchi ishaaci ____?</span></a></li>
+      <li><a href="audio/Say it again.mp3" class="audioButton">Say it again.    <br><span>Aachi an<u>o</u>wa.</span></a></li>
+      <li><a href="audio/I understand.mp3" class="audioButton">I understand. <br>   <span>Akostinichili.</span></a></li>
+      <li><a href="audio/Idonotunderstand.mp3" class="audioButton">I do not understand.  <br>  <span>Akostinicho.</span></a></li>
+      <li><a href="audio/What is this in reach.mp3" class="audioButton">What is this (in reach)?   <br><span>Yappa nanta?</span></a></li>
+      <li><a href="audio/What is that out of reach.mp3" class="audioButton">What is that (out of reach)?   <br><span>Yamma nanta?</span></a></li>
+      <li><a href="audio/Again.mp3" class="audioButton">Again    <br><span>An<u>o</u>wa</span></a></li>
+      <li><a href="audio/How_are_you.mp3" class="audioButton">How are you?   <br> <span>Chinchokma?</span></a></li>
+      <li><a href="audio/I_am_bad.mp3" class="audioButton">I am bad    <br><span>Anchokma ki'yo.</span></a></li>
+      <li><a href="audio/I_am_feeling_better.mp3" class="audioButton">I am feeling better <br>   <span>Anchokmakaayni.</span></a></li>
+      <li><a href="audio/I_am_good_And_you.mp3" class="audioButton">I am good. And you?  <br>  <span>Anchokma, ishnaako?</span></a></li>
+      <li><a href="audio/I_dont_know.mp3" class="audioButton">I don't know.<br><span>Akith<u>a</u>no</span></a></li>
+      <li><a href="audio/I_have_to_go.mp3" class="audioButton">I have to go <br> <span> Ayalima'kila.</span></a></li>
+      <li><a href="audio/Say_it_in.mp3" class="audioButton">Say it in Chickasaw  <br>  <span>Chikashshanompa' aachi.</span></a></li>
+      <li><a href="audio/Say_it_slowly.mp3" class="audioButton">Say it slowly. <br>   <span>Chokmalo'si aachi.</span></a></li>
+      <li><a href="audio/Speak_only_in.mp3" class="audioButton">Speak only in Chickasaw  <br>  <span>Chikashshanompa' ila aachi.</span></a></li>
+      <li><a href="audio/Stop_Youre_going_too_fast.mp3" class="audioButton">Stop. You're going too fast.  <br>  <span>Hika, ishpalhkichi salami.</span></a></li>
+      <li><a href="audio/Until_I_see_you_again.mp3" class="audioButton">Until I see you again  <br>  <span>Anowa chipisala'ch<u>o</u>.</span></a></li>
+      <li><a href="audio/What_am_I_doing.mp3" class="audioButton">What am I doing?  <br>  <span> Nanta katihmili?</span></a></li>
+      <li> <a href="audio/What_are_you_doing.mp3" class="audioButton">What are you doing?  <br> <span>Nanta ishkatihmi?</span></a></li>
+      <li><a href="audio/I_am_angry.mp3" class="audioButton">I am angry.   <br><span>Sashaa.</span></a></li>
+      <li><a href="audio/I_am_happy.mp3" class="audioButton">I am happy.    <br><span>Asayoppa.</span></a></li>
+      <li><a href="audio/I_am_hungry.mp3" class="audioButton">I am hungry.    <br><span>Sapoba.</span></a></li>
+      <li><a href="audio/I_am_not_feeling_well.mp3" class="audioButton">I am not feeling well.    <br><span>Iksamalhpi'so.</span></a></li>
+      <li><a href="audio/I_am_scared.mp3" class="audioButton">I am scared.    <br><span>Samihlha.</span></a></li>
+      <li><a href="audio/I_am_thirsty.mp3" class="audioButton">I am thirsty.    <br><span>Sanokshila.</span></a></li>
+      <li><a href="audio/I_like_that_kid.mp3" class="audioButton">I like that kid.   <br> <span>Chipotaak<u>o</u> ayoppáshli.</span></a></li>
+      <li><a href="audio/I_love_my_grandpa.mp3" class="audioButton">I love my grandma.    <br><span>Appo'si' <u>i</u>holloli.</span></a></li>
+      <li><a href="audio/I_love_my_grandma.mp3" class="audioButton">I love my grandpa.   <br><span>Amafo'si' <u>i</u>holloli.</span></a></li>
+      <li><a href="audio/I_want_some_water.mp3" class="audioButton">I want some water.   <br><span>Oka' sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_go_play.mp3" class="audioButton">I want to go play.   <br> <span>Chokoshkomo aya sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_listen_to_the_iPod.mp3" class="audioButton">I want to listen to the iPod. <br>   <span>Nanola' haklo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_ball.mp3" class="audioButton">I want to play ball.  <br>  <span>To'li' chokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_video_games.mp3" class="audioButton">I want to play video games.    <br><span>Holba' ishtchokoshkomo' chokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_with_my_friend.mp3" class="audioButton">I want to play with my friend.    <br><span>Ankana ibaachokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_watch_television_TV.mp3" class="audioButton">I want to watch TV  <br>  <span>Holba' aapisa' pisa sabanna.</span></a></li>
+      <li><a href="audio/Mommy_I_want_to_go_potty.mp3" class="audioButton">Mommy, I want to go potty.  <br>  <span>Sashki, abooshi' aya sabanna.</span></a></li>
+      <li><a href="audio/My_family_shops_at_WalMart.mp3" class="audioButton">My family shops at Wal-Mart.  <br>  <span>Anchokka-chaffa' Wal-Martak<u>o</u> aachompa.</span></a></li>
+      <li><a href="audio/This_is_funny.mp3" class="audioButton">This is funny.  <br> <span>Yappat ikkosti'no.</span></a></li>
+      <li><a href="audio/This_is_no_fun.mp3" class="audioButton">This is not fun.  <br>  <span>Yappat ikchokmo.</span></a></li>
+      <li><a href="audio/You_smell_good.mp3" class="audioButton">You smell good.   <br> <span>Chibilama.</span></a></li>
+      <li><a href="audio/I_see.mp3" class="audioButton">I see.    <br><span>Pisali.</span></a></li>
+      <li><a href="audio/I_see_a_dog.mp3" class="audioButton">I see a dog.  <br>  <span>Ofi' pisali.</span></a></li>
+      <li><a href="audio/Big_Small.mp3" class="audioButton">Big, Small  <br>  <span>Ishto', ishkanno'si'</span></a></li>
+      <li><a href="audio/House.mp3" class="audioButton">House <br>   <span>Abooha</span></a></li>
+      <li><a href="audio/I_see_a_big_house.mp3" class="audioButton">I see a big house. <br>   <span>Abooha ishto' pisali.</span></a></li>
+      <li><a href="audio/I_see_a_small_cat.mp3" class="audioButton">I see a small cat  <br>  <span>Kowi' iskanno' pisali.</span></a></li>
+      <li><a href="audio/car.mp3" class="audioButton">Car  <br>  <span>Itti' chanaa' palhki'</span></a></li>
+      <li><a href="audio/I_see_a_yellow_car.mp3" class="audioButton">I see a yellow car  <br>  <span>Itti' chanaa' palhki' lakna' pisali.</span></a></li>
+      <li> <a href="audio/Be_polite.mp3" class="audioButton">Be polite.    <br><span>Chokma ishatta'shki.</span></a></li>
+      <li> <a href="audio/Behave.mp3" class="audioButton">Behave!   <br> <span>Nokchito!</span></a></li>
+      <li><a href="audio/Clean_your_room.mp3" class="audioButton">Clean your room.  <br> <span> Chimabooha' chofalli.</span></a></li>
+      <li><a href="audio/Come_and_eat.mp3" class="audioButton">Come and eat.  <br>  <span>Minti cha impa.</span></a></li>
+      <li> <a href="audio/Dont_argue.mp3" class="audioButton">Don't argue!  <br> <span>Ishtachapanna!</span></a></li>
+      <li><a href="audio/Dont_fight.mp3" class="audioButton">Don't fight!    <br> <span>Ittibinna!</span></a></li>
+      <li> <a href="audio/Go_to_bed.mp3" class="audioButton">Go to bed.   <br> <span> Nosit aya.</span></a></li>
+      <li><a href="audio/Help_me_clean_the_table.mp3" class="audioButton"> Help me clean the table.   <br>  <span>Aaimpa' chofallikat sapila.</span></a></li>
+      <li><a href="audio/Help_me_in_the_kitchen.mp3" class="audioButton"> Help me in the kitchen.  <br>  <span> Aalhponi' asapila.</span></a></li>
+      <li><a href="audio/Help_me_with_the_dishes.mp3" class="audioButton">Help me with the dishes.  <br>   <span>Amposhi' chofallikat sapila.</span></a></li>
+      <li><a href="audio/Help_me_with_the_laundry.mp3" class="audioButton">Help me with the laundry.  <br>  <span>Naafokha achifakat sapila.</span></a></li>
+      <li><a href="audio/Help_your_dad_inside.mp3" class="audioButton">Help your dad inside. <br>   <span>Anonkaka' chinki' apila.</span></a></li>
+      <li><a href="audio/Help_your_dad_outside.mp3" class="audioButton">Help your dad outside. <br>   <span>Kochchaat chinki' apila.</span></a></li>
+      <li><a href="audio/Help_your_dad.mp3" class="audioButton">Help your dad. <br>  <span> Chinki' apila.</span></a></li>
+      <li><a href="audio/I_am_sorry.mp3" class="audioButton">I am sorry. <br>   <span>Sanokhánglo.</span></a></li>
+      <li><a href="audio/I_love_you.mp3" class="audioButton">I love you. <br>   <span>Chiholloli.</span></a></li>
+      <li><a href="audio/I_should_not_have_done_that.mp3" class="audioButton">I should not have done that.  <br>  <span>Akyammokantkant.</span></a></li>
+      <li><a href="audio/No.mp3" class="audioButton">No.  <br>  <span>Ki'yo.</span></a></li>
+      <li><a href="audio/Respect_your_elders.mp3" class="audioButton">Respect your elders. <br>   <span>Kamassa' ishholiitobla'shki.</span></a></li>
+      <li><a href="audio/Thank_you.mp3" class="audioButton">Thank you.  <br>  <span>Chokma'shki / Yakookay</span></a></li>
+      <li><a href="audio/Turn_off_the_television.mp3" class="audioButton">Turn off the television.<br>
+      <li><a href="audio/Yes.mp3" class="audioButton">Yes.<br /><span><u>I</u>i / Hoomi.</span></a></li>
+      <li><a href="audio/You_are_a_good_boy.mp3" class="audioButton">You are a good boy.<br>
+      <li><a href="audio/You_are_a_good_girl.mp3" class="audioButton">You are a good girl.<br>
+      <li><a href="audio/You_behave.mp3" class="audioButton">You behave.<br>
+      <li><a href="audio/You_can_go_and_get_it.mp3" class="audioButton">You can go and get it.<br>
+      <li><a href="audio/You_can_have_it.mp3" class="audioButton">You can have it.<br>
+      <li><a href="audio/You_cannot_have_it.mp3" class="audioButton">You cannot have it<br>
+          <li><a href="audio/Are_you_hungry2.mp3" class="audioButton">Are you hungry?<br><span>Chipobataa?</span></a></li>
+          <li><a href="audio/Beans.mp3" class="audioButton">Beans <br><span>Bala'</span></a></li>
+          <li><a href="audio/Can_I_eat.mp3" class="audioButton">Can I eat?<br><span>
+          <li><a href="audio/Come_to_eat_group.mp3" class="audioButton">Come to eat {group}. <br><span>Hashminticha impa.</span></a>
+          <li> <a href="audio/Come_to_eat_single_person.mp3" class="audioButton">Come to eat {single person}<br><span>Ishminticha impa.</span></a></li>
+          <li><a href="audio/Do_you_have_any_food.mp3" class="audioButton">Do you have any food? <br>
+          <li><a href="audio/Do_you_want_to_eat.mp3" class="audioButton">Do you want to eat? <br>
+          <li><a href="audio/Express_the_food_is_great.mp3" class="audioButton">The food is great! <br>
+          <li><a href="audio/Express_the_food_is_not_so_good.mp3" class="audioButton">The food is not so good. <br>
+          <li><a href="audio/Give_me_the_beans.mp3" class="audioButton">Give me the beans. <br>
+		  <li><a href="audio/Give_me_the.mp3" class="audioButton">Give me the... <br>
+		  <li><a href="audio/I_am_not_hungry.mp3" class="audioButton">I am not hungry.      <br> 	   <span>Sapoba ki'yo.</span></a></li>
+		  <li><a href="audio/I_am_not_tipping.mp3" class="audioButton">I am not tipping. <br>
+		  <li><a href="audio/I_am_tipping.mp3" class="audioButton">I am tipping.     <br>
+		  <li><a href="audio/I_want_some_biscuits_and_gravy.mp3" class="audioButton">I want some biscuits and gravy.   <br>
+		  <li><a href="audio/I_want_some_bread_and_butter.mp3" class="audioButton">I want some bread and butter. <br>
+		  <li><a href="audio/I_want_some_cake.mp3" class="audioButton">I want some cake. <br>
+		  <li><a href="audio/I_want_some_coffee.mp3" class="audioButton">I want some coffee. <br>
+		  <li><a href="audio/I_want_some_eggs_and_bacon.mp3" class="audioButton">I want some eggs and bacon. <br>
+		 <li><a href="audio/I_want_some_food.mp3" class="audioButton">I want some food. <br>
+		 <li><a href="audio/I_want_some_fried_chicken.mp3" class="audioButton">I want some fried chicken.    <br>      
+		 <li><a href="audio/I_want_some_fries.mp3" class="audioButton">I want some fries. <br>
+		 <li><a href="audio/I_want_some_fruits.mp3" class="audioButton">I want some fruits. <br>
+		 <li><a href="audio/I_want_some_frybread.mp3" class="audioButton">I want some frybread. <br>
+		 <li><a href="audio/I_want_some_green_beans.mp3" class="audioButton">I want some green beans. <br>
+		 <li><a href="audio/I_want_some_hamburgers.mp3" class="audioButton">I want some hamburgers. <br>
+		<li><a href="audio/I_want_some_ice_cream.mp3" class="audioButton">I want some ice cream. <br>
+		<li><a href="audio/I_want_some_meat.mp3" class="audioButton">I want some meat. <br>
+		<li><a href="audio/I_want_some_pie.mp3" class="audioButton">I want some pie. <br>
+		<li><a href="audio/I_want_some_potatoes.mp3" class="audioButton">I want some potatoes. <br>
+		<li><a href="audio/I_want_some_soda_pop.mp3" class="audioButton">I want some sodapop. <br>
+		<li><a href="audio/I_want_some_vegetables.mp3" class="audioButton">I want some vegetables. <br>
+		<li><a href="audio/I_want_to_eat.mp3" class="audioButton">I want to eat. <br>
+		<li><a href="audio/Is_there_anything_to_eat_here.mp3" class="audioButton">Is there anything to eat here? <br>
+		<li><a href="audio/Pass_the_salt_and_pepper.mp3" class="audioButton">Pass the salt and pepper.	<br>
+		<li><a href="audio/something_sweet.mp3" class="audioButton">Something sweet <br>
+		<li><a href="audio/The_beans_are_very_good.mp3" class="audioButton">The beans are very good. <br>
+		<li><a href="audio/The_service_in_the_restaurant_is_good.mp3" class="audioButton">The service in the restaurant is good. <br>
+		<li><a href="audio/The_service_is_terrible.mp3" class="audioButton">The service is terrible. <br>
+		<li><a href="audio/What_do_you_want_to_drink.mp3" class="audioButton">What do you want to drink? <br>
+		<li><a href="audio/What_do_you_want_to_eat.mp3" class="audioButton">What do you want to eat? <br>
+		<li><a href="audio/What_have_you_got_to_eat.mp3" class="audioButton">What have you got to eat? <br>
+		<li><a href="audio/Where_can_I_get_something_to_eat.mp3" class="audioButton">Where can I get something to eat? <br>
+		<li><a href="audio/You_dont_have_to_cook.mp3" class="audioButton">You don't have to cook. <br>
+		<li><a href="audio/I_want_some_water.mp3" class="audioButton">I want some water.	<br>
+   		<a href="audio/Arm.mp3" class="audioButton">Arm
+   		<a href="audio/Back.mp3" class="audioButton">Back
+      	<a href="audio/Beard.mp3" class="audioButton">Beard
+      	<a href="audio/Bellybutton.mp3" class="audioButton">Bellybutton
+      <li> <a href="audio/Blood.mp3" class="audioButton">Blood
+      <li> <a href="audio/Body.mp3" class="audioButton">Body
+      <li> <a href="audio/Bone.mp3" class="audioButton">Bone
+      <li> <a href="audio/Chest.mp3" class="audioButton">Chest
+      <li> <a href="audio/Chin.mp3" class="audioButton">Chin
+      <li> <a href="audio/Ears.mp3" class="audioButton">Ears
+      	<a href="audio/Elbow.mp3" class="audioButton">Elbow
+      	<a href="audio/Eye.mp3" class="audioButton">Eye
+      	<a href="audio/Eyebrows.mp3" class="audioButton">Eyebrows
+      	<a href="audio/Eyelashes.mp3" class="audioButton">Eyelashes
+      	<a href="audio/Feet.mp3" class="audioButton">Feet
+      	<a href="audio/Finters.mp3" class="audioButton">Fingers
+      	<a href="audio/Hair.mp3" class="audioButton">Hair
+      	<a href="audio/Hand.mp3" class="audioButton">Hand
+      	<a href="audio/Head.mp3" class="audioButton">Head
+      	<a href="audio/Heart.mp3" class="audioButton">Heart
+      	<a href="audio/Intestines.mp3" class="audioButton">Intestines
+      	<a href="audio/Knee.mp3" class="audioButton">Knee
+      	<a href="audio/Leg.mp3" class="audioButton">Leg
+      	<a href="audio/Liver.mp3" class="audioButton">Liver
+      	<a href="audio/Mouth.mp3" class="audioButton">Mouth
+      	<a href="audio/Muscle_Tendons.mp3" class="audioButton">Muscle, Tendon, Nerve
+      	<a href="audio/Neck.mp3" class="audioButton">Neck
+      	<a href="audio/Nose.mp3" class="audioButton">Nose
+      	<a href="audio/Ribs.mp3" class="audioButton">Rib
+      	<a href="audio/Shoulder.mp3" class="audioButton">Shoulder
+      	<a href="audio/Stomach_belly.mp3" class="audioButton">Stomach, Belly
+      	<a href="audio/Tooth.mp3" class="audioButton">Tooth?????????????????????????
+      	<a href="audio/Thigh.mp3" class="audioButton">Thigh
+      	<a href="audio/Thumb.mp3" class="audioButton">Thumb
+      	<a href="audio/Toes.mp3" class="audioButton">Toes
+      	<a href="audio/Tongue.mp3" class="audioButton">Tongue
+      	<a href="audio/This_is_a.mp3" class="audioButton">This is a…
+      	<a href="audio/This_is_a_dog.mp3" class="audioButton">This is a dog
+      	<a href="audio/Dog.mp3" class="audioButton">Dog
+      	<a href="audio/Alligator.mp3" class="audioButton">Alligator
+      	<a href="audio/Bear.mp3" class="audioButton">Bear
+      	<a href="audio/Beaver.mp3" class="audioButton">Beaver
+      	<a href="audio/Bird .mp3" class="audioButton">Bird
+      	<a href="audio/Blackbird.mp3" class="audioButton">Blackbird
+      	<a href="audio/Buffalo.mp3" class="audioButton">Buffalo
+      	<a href="audio/Bug.mp3" class="audioButton">Bug
+      	<a href="audio/Cat.mp3" class="audioButton">Cat
+      	<a href="audio/Chicken.mp3" class="audioButton">Chicken
+      	<a href="audio/Coyote.mp3" class="audioButton">Coyote
+      	<a href="audio/Crow.mp3" class="audioButton">Crow
+      	<a href="audio/Deer.mp3" class="audioButton">Deer
+      	<a href="audio/Eagle.mp3" class="audioButton">Eagle
+      	<a href="audio/Elk.mp3" class="audioButton">Elk
+      	<a href="audio/Fish.mp3" class="audioButton">Fish
+      	<a href="audio/Fox .mp3" class="audioButton">Fox
+      	<a href="audio/Frog.mp3" class="audioButton">Frog
+      	<a href="audio/Gopher.mp3" class="audioButton">Gopher
+      	<a href="audio/Hawk.mp3" class="audioButton">Hawk
+      	<a href="audio/Horse.mp3" class="audioButton">Horse
+      	<a href="audio/Lizard.mp3" class="audioButton">Lizard
+      	<a href="audio/Mouse .mp3" class="audioButton">Mouse
+      	<a href="audio/Owl.mp3" class="audioButton">Owl
+      	<a href="audio/Panther.mp3" class="audioButton">Panther
+      	<a href="audio/Rabbit.mp3" class="audioButton">Rabbit
+      	<a href="audio/Raccoon.mp3" class="audioButton">Raccoon
+      	<a href="audio/Red_fox.mp3" class="audioButton">Red Fox
+      	<a href="audio/Skunk.mp3" class="audioButton">Skunk
+      	<a href="audio/Snake.mp3" class="audioButton">Snake
+      	<a href="audio/Spider.mp3" class="audioButton">Spider
+      	<a href="audio/Squirrel.mp3" class="audioButton">Squirrel
+      	<a href="audio/Turkey.mp3" class="audioButton">Turkey
+      	<a href="audio/Turtle.mp3" class="audioButton">Turtle
+      	<a href="audio/Wildcat.mp3" class="audioButton">Wildcat
+      	<a href="audio/Wolf.mp3" class="audioButton">Wolf
+      	<a href="audio/Mother.mp3" class="audioButton">Mother
+      	<a href="audio/Father.mp3" class="audioButton">Father
+      	<a href="audio/Grandmother.mp3" class="audioButton">Grandmother
+      	<a href="audio/Grandfather.mp3" class="audioButton">Grandfather
+      	<a href="audio/Grandchild.mp3" class="audioButton">Grandchild
+      	<a href="audio/Uncle.mp3" class="audioButton">Uncle
+      	<a href="audio/Aunt.mp3" class="audioButton">Aunt
+      	<a href="audio/Husband.mp3" class="audioButton">Husband
+      	<a href="audio/Wife.mp3" class="audioButton">Wife
+      	<a href="audio/Brother.mp3" class="audioButton">Brother
+      	<a href="audio/Sister.mp3" class="audioButton">Sister
+      	<a href="audio/Daughter.mp3" class="audioButton">Daughter
+      	<a href="audio/Son.mp3" class="audioButton">Son
+      	<a href="audio/One.mp3" class="audioButton">One
+      	<a href="audio/Two.mp3" class="audioButton">Two
+      	<a href="audio/Three.mp3" class="audioButton">Three
+      	<a href="audio/Four.mp3" class="audioButton">Four
+      	<a href="audio/Five.mp3" class="audioButton">Five
+      	<a href="audio/Six.mp3" class="audioButton">Six
+      	<a href="audio/Seven.mp3" class="audioButton">Seven
+      	<a href="audio/Eight.mp3" class="audioButton">Eight
+      	<a href="audio/Nine.mp3" class="audioButton">Nine
+      	<a href="audio/Ten.mp3" class="audioButton">Ten
+      	<a href="audio/Eleven.mp3" class="audioButton">Eleven
+      	<a href="audio/Twelve.mp3" class="audioButton">Twelve
+      	<a href="audio/Thirteen.mp3" class="audioButton">Thirteen
+      	<a href="audio/Fourteen.mp3" class="audioButton">Fourteen
+      <a href="audio/Fifteen.mp3" class="audioButton">Fifteen
+      	<a href="audio/Sixteen.mp3" class="audioButton">Sixteen
+      	<a href="audio/Seventeen.mp3" class="audioButton">Seventeen
+      	<a href="audio/Eighteen.mp3" class="audioButton">Eighteen
+      	<a href="audio/Nineteen.mp3" class="audioButton">Nineteen
+      <li><a href="audio/Twenty.mp3" class="audioButton">Twenty
+      <li><a href="audio/Thirty.mp3" class="audioButton">Thirty
+      <li><a href="audio/Forty.mp3" class="audioButton">Forty
+      <li><a href="audio/Fifty.mp3" class="audioButton">Fifty
+      <li><a href="audio/Sixty.mp3" class="audioButton">Sixty
+      <li><a href="audio/Seventy.mp3" class="audioButton">Seventy
+      <li><a href="audio/Eighty.mp3" class="audioButton">Eighty
+      <li><a href="audio/Ninety.mp3" class="audioButton">Ninety
+      <li><a href="audio/One_hundred.mp3" class="audioButton">One Hundred
+      <li><a href="audio/One_thousand.mp3" class="audioButton">One Thousand
+      <li><a href="audio/Yellow.mp3" class="audioButton">Yellow
+      <li><a href="audio/Red.mp3" class="audioButton">Red
+      <li><a href="audio/Pink.mp3" class="audioButton">Pink
+      <li><a href="audio/Green.mp3" class="audioButton">Green
+      <li><a href="audio/Blue.mp3" class="audioButton">Blue
+      <li><a href="audio/Brown.mp3" class="audioButton">Brown
+      <li><a href="audio/Orange.mp3" class="audioButton">Orange
+      <li><a href="audio/Purple.mp3" class="audioButton">Purple
+      <li><a href="audio/Gray.mp3" class="audioButton">Gray
+      <li><a href="audio/Black.mp3" class="audioButton">Black
+      <li><a href="audio/White.mp3" class="audioButton">White
+      <li><a href="audio/Rainbow.mp3" class="audioButton">Rainbow
+      <li><a href="audio/Colors.mp3" class="audioButton">Colors
+      <li><a href="audio/Be_nice.mp3" class="audioButton">Be nice. <br><span>Chinokchinta'shki.</span></a></li>
+      <li><a href="audio/Be_quiet.mp3" class="audioButton">Be quiet. <br><span>Chokkilissa.</span></a></li>
+      <li><a href="audio/Be_wise.mp3" class="audioButton">Be wise. <br><span>Imponna.</span></a></li>
+      <li><a href="audio/Buy_it.mp3" class="audioButton">Buy it. <br><span>Chompa.</span></a></li>
+      <li><a href="audio/Clean_this_house.mp3" class="audioButton">Clean this house. <br><span>Aboo yappa chofalli.</span></a></li>
+      <li><a href="audio/Clean_this_up.mp3" class="audioButton">Clean this up. <br><span>Yappa chofalli.</span></a></li>
+      <li><a href="audio/Come and visit.mp3" class="audioButton">Come and visit. <br><span>Minti cha anchokkaalaa.</span></a></li>
+      <li><a href="audio/Come_in.mp3" class="audioButton">Come in. <br><span>Chokkowa.</span></a></li>
+      <li><a href="audio/Come_over_here.mp3" class="audioButton">Come over here. <br><span>Mintibaa.</span></a></li>
+      <li><a href="audio/Cover_this_up.mp3" class="audioButton">Cover this up. <br><span>Yappa alhiibli.</span></a></li>
+      <li><a href="audio/Dont_do_that.mp3" class="audioButton">Don't do that. <br><span>Yamminna.</span></a></li>
+      <li><a href="audio/Get_up.mp3" class="audioButton">Get up. <br><span>Hika.</span></a></li>
+      <li><a href="audio/Go_away.mp3" class="audioButton">Go away. <br><span>Aya.</span></a></li>
+      <li><a href="audio/Go_home_now.mp3" class="audioButton">Go home now. <br><span>Chinchokka' mako'sa aya.</span></a></li>
+      <li><a href="audio/Got_to_town.mp3" class="audioButton">Go to town. <br><span>Aachompa' aya.</span></a></li>
+      <li><a href="audio/Hear_me.mp3" class="audioButton">Hear me. <br><span>Sahánglo.</span></a></li>
+      <li><a href="audio/Lets_dance.mp3" class="audioButton">Let's dance. <br><span>Ilihilha'.</span></a></li>
+      <li><a href="audio/Lets_go_eat.mp3" class="audioButton">Let's go eat. <br><span>Ilimpat liya.</span></a></li>
+      <li><a href="audio/Lets_go_play_outside.mp3" class="audioButton">Let's go play outside. <br><span>Kochchat ayat ilichokoshkomo'.</span></a></li>
+      <li><a href="audio/Lets_go_to_church.mp3" class="audioButton">Let's go to church. <br><span>Aaittanaha' iliya'.</span></a></li>
+      <li><a href="audio/Lets_go.mp3" class="audioButton">Let's go. <br><span>Iliya'.</span></a></li>
+      <li><a href="audio/Lets_help_them.mp3" class="audioButton">Let's all help them. <br><span>Loapila'.</span></a></li>
+      <li><a href="audio/Lets_play_stickball.mp3" class="audioButton">Let's play stickball. <br><span>Kapochcha' ilito'li'!</span></a></li>
+      <li><a href="audio/Look.mp3" class="audioButton">Look. <br><span>Pisa.</span></a></li>
+      <li><a href="audio/Make_some_frybread.mp3" class="audioButton">Make some frybread. <br> <span>Paska awaalhali' ikbi.</span></a></li>
+      <li><a href="audio/Put_on_your_jacket.mp3" class="audioButton">Put on your jacket <br><span>Chinaafkishto' fokha.</span></a></li>
+      <li><a href="audio/Put_on_your_shoes.mp3" class="audioButton">Put on your shoes. <br> <span>Chisholosh hollo.</span></a></li>
+      <li><a href="audio/Put_your_hat_on.mp3" class="audioButton">Put your hat on. <br><span>Chiyaalhipa' fokha.</span></a></li>
+      <li><a href="audio/Say_it.mp3" class="audioButton">Say it. <br><span>Aachi.</span></a></li>
+      <li><a href="audio/Shake_my_hand.mp3" class="audioButton">Shake my hand. <br><span>Salbak sayoppachi.</span></a></li>
+      <li><a href="audio/Show_me.mp3" class="audioButton">Show me. <br><span>Sapisa'chi.</span></a></li>
+      <li><a href="audio/Sit_down.mp3" class="audioButton">Sit down. <br><span>Binnili.</span></a></li>
+      <li><a href="audio/Sit_quiet.mp3" class="audioButton">Sit quietly. <br> <span>Chokillisaat binnili.</span></a></li>
+      <li><a href="audio/Sorry.mp3" class="audioButton">Sorry. <br><span> Nokhánglo.</span></a></li>
+      <li><a href="audio/Stand_up.mp3" class="audioButton">Stand up. <br><span>Hika.</span></a></li>
+      <li><a href="audio/Stop_it.mp3" class="audioButton">Stop it. <br><span>Iissachi.</span></a></li>
+      <li><a href="audio/Talk_to_me.mp3" class="audioButton">Talk to me. <br><span>Amanompoli.</span></a></li>
+      <li><a href="audio/Tell_me_a_story.mp3" class="audioButton">Tell me a story. <br><span>Nanna anoli amanoli.</span></a></li>
+      <li><a href="audio/Tell_me.mp3" class="audioButton">Tell me. <br><span>Amanoli.</span></a></li>
+      <li><a href="audio/Tell_the_truth.mp3" class="audioButton">Tell the truth. <br><span>Alhlhi anoli.</span></a></li>
+      <li><a href="audio/Turn_the_light_on.mp3" class="audioButton">Turn the light on. <br><span>Aashoppala' aashoppalali.</span></a></li>
+      <li><a href="audio/Wait_here.mp3" class="audioButton">Wait here. <br><span>Yappa himóna.</span></a></li>
+      <li><a href="audio/Wait_over_there.mp3" class="audioButton">Wait over there. <br><span>Misha pila himóna.</span></a></li>
+      <li><a href="audio/You_better_watch_out.mp3" class="audioButton">You better watch out. <br><span>Yammisha'na'shki!</span></a></li>
+      <li><a href="audio/You_must_come_with_me.mp3" class="audioButton">You must come with me. <br><span>Issabaya'shki.</span></a></li>
+      <li><a href="audio/People.mp3" class="audioButton">People
+      <li><a href="audio/Woman.mp3" class="audioButton">Woman
+      <li><a href="audio/Man.mp3" class="audioButton">Man
+      <li><a href="audio/Child.mp3" class="audioButton">Child
+      <li><a href="audio/Baby.mp3" class="audioButton">Baby
+      <li><a href="audio/Boy.mp3" class="audioButton">Boy
+      <li><a href="audio/BoyTeenage.mp3" class="audioButton">Boy, teenage
+      <li><a href="audio/Girl.mp3" class="audioButton">Girl
+      <li><a href="audio/GirlTeenage.mp3" class="audioButton">Girl, teenage
+      <li><a href="audio/Elder.mp3" class="audioButton">Elder
+      <li><a href="audio/Chief.mp3" class="audioButton">Chief
+      <li><a href="audio/Deceased.mp3" class="audioButton">Deceased
+      <li><a href="audio/IndianPeople.mp3" class="audioButton">Indian People
+      <li><a href="audio/IndianMan.mp3" class="audioButton">Indian man
+      <li><a href="audio/IndianWoman.mp3" class="audioButton">Indian woman
+      <li><a href="audio/IndianTribes.mp3" class="audioButton">Indian tribes
+      <li><a href="audio/Boss.mp3" class="audioButton">Boss
+      <li><a href="audio/Dentist.mp3" class="audioButton">Dentist
+      <li><a href="audio/Doctor.mp3" class="audioButton">Doctor
+      <li><a href="audio/Fireman.mp3" class="audioButton">Fireman
+      <li><a href="audio/MailCarrier.mp3" class="audioButton">Mail Carrier
+      <li><a href="audio/Nurse.mp3" class="audioButton">Nurse
+      <li><a href="audio/PoliceOfficer.mp3" class="audioButton">Police Officer
+      <li><a href="audio/Soldier.mp3" class="audioButton">Soldier
+      <li><a href="audio/Teacher.mp3" class="audioButton">Teacher
+      <li><a href="audio/BlackBerryPhone.mp3" class="audioButton">BlackBerry Phone <br><span>Bissa' Losa'</span></a></li>
+      <li><a href="audio/Camera.mp3" class="audioButton">Camera <br><span>Ishtholbachi'</span></a></li>
+      <li><a href="audio/CellPhone.mp3" class="audioButton">Cell Phone <br><span>Talanompoli', talaanompa' ishtáa'</span></a></li>
+      <li><a href="audio/Computer.mp3" class="audioButton">Computer <br><span>Tali' lopi', tali' aaithána'</span></a></li>
+      <li><a href="audio/Email.mp3" class="audioButton">Email <br><span>Holisso palhki'</span></a></li>
+      <li><a href="audio/Internet.mp3" class="audioButton">Internet <br><span>Tali' lopi' lawa', tali' ithána' lawa'</span></a></li>
+      <li><a href="audio/iPodnew.mp3" class="audioButton">iPod <br><span>Nanola'</span></a></li>
+      <li><a href="audio/Memorandum.mp3" class="audioButton">Memorandum <br><span>Holisso pilachi'</span></a></li>
+      <li><a href="audio/Phone.mp3" class="audioButton">Phone <br><span>Talaanompa', tali' anompoli'</span></a></li>
+      <li><a href="audio/Teleconferencing.mp3" class="audioButton">Teleconferencing <br><span>Holba' aaittafamma anompoli'</span></a></li>
+      <li><a href="audio/Television.mp3" class="audioButton">Television <br><span>Holba' aapisa'</span></a></li>
+      <li><a href="audio/VideoGame.mp3" class="audioButton">Video Game <br><span>Holba' ishtchokoshkomo'</span></a></li>
+      <li><a href="audio/VideoPlayer.mp3" class="audioButton">Video player / video <br><span>Holba' aapisa'</span></a></li>
+      <li><a href="audio/Autumn.mp3" class="audioButton">Autumn <br><span>Hashtola' ámmo'na'</span></a></li>
+      <li><a href="audio/Hows_the_weather.mp3" class="audioButton">How's the weather? <br><span>Kochcha' katihmi? </span></a></li>
+      <li><a href="audio/It_is_cloudy.mp3" class="audioButton">It is cloudy. <br><span>Hoshonti.</span></a></li>
+      <li><a href="audio/It_is_hailing.mp3" class="audioButton">It is hailing. <br><span>Bachalosha.</span></a></li>
+      <li><a href="audio/It_is_raining.mp3" class="audioButton">It is raining. <br><span>Omba.</span></a></li>
+      <li><a href="audio/It_is_snowing.mp3" class="audioButton">It is snowing. <br><span>Oktosha.</span></a></li>
+      <li><a href="audio/It_is_sunny.mp3" class="audioButton">It is sunny. <br><span>Hashi' toomi.</span></a></li>
+      <li><a href="audio/It_is_windy.mp3" class="audioButton">It is windy. <br><span>Mahli.</span></a></li>
+      <li><a href="audio/Its_a_cold_day .mp3" class="audioButton">It's a cold day. <br><span>Himmaka nittakat kapassa.</span></a></li>
+      <li><a href="audio/Its_a_warm_day.mp3" class="audioButton">It's a warm day. <br><span>Himmaka nittakat lashpa.</span></a></li>
+      <li><a href="audio/Snow.mp3" class="audioButton">Snow <br><span>Okti'</span></a></li>
+      <li><a href="audio/Spring.mp3" class="audioButton">Spring <br><span>Toompalli' Ishtayya'</span></a></li>
+      <li><a href="audio/Summer.mp3" class="audioButton">Summer <br><span>Toompalli'</span></a></li>
+      <li><a href="audio/The_sky_is_dark.mp3" class="audioButton">The sky is dark. <br><span>Shotikat oklhilli.</span></a></li>
+      <li><a href="audio/The_sun_is_rising.mp3" class="audioButton">The sun is rising. <br><span>Hashiat kochcha.</span></a></li>
+      <li><a href="audio/The_sun_is_setting.mp3" class="audioButton">The sun is setting. <br><span>Hashiat ittola.</span></a></li>
+      <li><a href="audio/The_sun_rises_in_the_east_and_sets_in_the_west.mp3" class="audioButton">The sun rises in the east and sets in the west. <br><span>Hashaakochcha' hashiat kochcha cha hashaakottola' hashiat ittola.</span></a></li>
+      <li><a href="audio/The_weather_is_bad.mp3" class="audioButton">The weather is bad. <br><span>Kochchaat ikchokmo.</span></a></li>
+      <li><a href="audio/The_weather_is_good.mp3" class="audioButton">The weather is good. <br><span>Kochchaat chokma.</span></a></li>
+      <li><a href="audio/Winter.mp3" class="audioButton">Winter <br><span>Hashtola'</span></a></li>
+      <li><a href="audio/Day.mp3" class="audioButton">Day
+      <li><a href="audio/Week.mp3" class="audioButton">Week
+      <li><a href="audio/Month.mp3" class="audioButton">Month
+      <li><a href="audio/Year.mp3" class="audioButton">Year
+      <li><a href="audio/Hour.mp3" class="audioButton">Hour
+      <li><a href="audio/Minute.mp3" class="audioButton">Minute
+      <li><a href="audio/Midday.mp3" class="audioButton">Mid day / Lunch	time
+      <li><a href="audio/Time.mp3" class="audioButton">Time
+      <li><a href="audio/Clock.mp3" class="audioButton">Clock
+      <li><a href="audio/Future.mp3" class="audioButton">Future
+      <li><a href="audio/Past.mp3" class="audioButton">Past
+      <li><a href="audio/Present.mp3" class="audioButton">Present
+      <li><a href="audio/Ancienttime.mp3" class="audioButton">Ancient time
+      <li><a href="audio/Baptize.mp3" class="audioButton">Baptize
+      <li><a href="audio/Bible.mp3" class="audioButton">Bible
+      <li><a href="audio/Christian.mp3" class="audioButton">Christian
+      <li><a href="audio/Church.mp3" class="audioButton">Church
+      <li><a href="audio/Dream.mp3" class="audioButton">Dream
+      <li><a href="audio/God.mp3" class="audioButton">God
+      <li><a href="audio/GreatSpirit.mp3" class="audioButton">Great Spirit
+      <li><a href="audio/Groundearth.mp3" class="audioButton">Ground, Earth
+      <li><a href="audio/Hymn.mp3" class="audioButton">Hymn
+      <li><a href="audio/Jesus.mp3" class="audioButton">Jesus
+      <li><a href="audio/LittlePeople.mp3" class="audioButton">Little People
+      <li><a href="audio/medicineperson.mp3" class="audioButton">Medicine Person
+      <li><a href="audio/Moon.mp3" class="audioButton">Moon
+      <li><a href="audio/Preacher.mp3" class="audioButton">Preacher
+      <li><a href="audio/Religion.mp3" class="audioButton">Religion
+      <li><a href="audio/Stompdance.mp3" class="audioButton">Stompdance
+      <li><a href="audio/Stompground.mp3" class="audioButton">Stomp ground
+      <li><a href="audio/Sun.mp3" class="audioButton">Sun
+      <li><a href="audio/Truth.mp3" class="audioButton">Truth
+      <li><a href="audio/Beads.mp3" class="audioButton">Beads
+      <li><a href="audio/Belt.mp3" class="audioButton">Belt
+      <li><a href="audio/Blanket.mp3" class="audioButton">Blanket
+      <li><a href="audio/BreechCloth.mp3" class="audioButton">Breech Cloth
+      <li><a href="audio/Buckskin.mp3" class="audioButton">Buckskin
+      <li><a href="audio/BuckskinShirt.mp3" class="audioButton">Buckskin Shirt
+      <li><a href="audio/Canvas.mp3" class="audioButton">Canvas
+      <li><a href="audio/Cloth.mp3" class="audioButton">Cloth
+      <li><a href="audio/Clothes.mp3" class="audioButton">Clothes
+      <li><a href="audio/Eaglefeathers.mp3" class="audioButton">Eagle feathers
+      <li><a href="audio/Feathers.mp3" class="audioButton">Feathers
+      <li><a href="audio/Hat.mp3" class="audioButton">Hat / headdress
+      <li><a href="audio/Hide.mp3" class="audioButton">Hide
+      <li><a href="audio/Hoovesnails.mp3" class="audioButton">Hoof, nail
+      <li><a href="audio/Metal.mp3" class="audioButton">Metal
+      <li><a href="audio/Moccasins.mp3" class="audioButton">Shoes / Moccasins
+      <li><a href="audio/Needle.mp3" class="audioButton">Needle
+      <li><a href="audio/Outfit.mp3" class="audioButton">Outfit
+      <li><a href="audio/Ribbon.mp3" class="audioButton">Ribbon
+      <li><a href="audio/Ribbonshirt.mp3" class="audioButton">Ribbon shirt
+      <li><a href="audio/Scissors.mp3" class="audioButton">Scissors
+      <li><a href="audio/Shellsturtle.mp3" class="audioButton">Shell
+      <li><a href="audio/Thread.mp3" class="audioButton">Thread
+  		<li><a href="audio/Its dark.mp3" class="audioButton">It's dark.<br><span>Oklhili.</span></a></li>
+  		<li><a href="audio/The dancers are all here.mp3" class="audioButton">The dancers are all here.<br><span>Hilha' hoomóma áyya'sha.</span></a></li>
+  		<li><a href="audio/The fire has been kindled.mp3" class="audioButton">The fire has been kindled.<br><span>Lowak ootitok.</span></a></li>
+  		<li><a href="audio/The_men_are_sitting_under_the_arbors.mp3" class="audioButton">The men are sitting in the arbors.<br><span>Hattak alhihaat chishanko tomaat hoobínohtmáa.</span></a></li>
+  		<li><a href="audio/The chief is calling them out to sing.mp3" class="audioButton">The chief is calling them out to sing.<br><span>Minkoat hootaloowachi iwaa.</span></a></li>
+  		<li><a href="audio/The men say hoo and walk out to dance.mp3" class="audioButton">The men say 'hoo' and walk outto dance.<br><span>Hattak alhihaat 'hoo' aashcha nowaat hilha'chi.</span></a></li>
+  		<li><a href="audio/He will lead the stompdance.mp3" class="audioButton">He will lead the stomp dance.<br><span>Intikbayka'chi.</span></a></li>
+  		<li><a href="audio/That woman is the lead shell shaker.mp3" class="audioButton">That woman is the lead shell shaker.<br><span>Ihoopat tikba loksi' shaali'.</span></a></li>
+  		<li><a href="audio/Women with turtle shakers go first.mp3" class="audioButton">Women with turtle shakers go first.<br><span>Ihoo alhihaat loksi' hooshaalika tingba aya.</span></a></li>
+  		<li><a href="audio/It sounds really good.mp3" class="audioButton">It sounds really good.<br><span>Hakloka chokma!</span></a></li>
+  		<li><a href="audio/I like the garfish dance best.mp3" class="audioButton">I like the garfish dance best.<br><span>Nani' kallo' hilhaako ayyopánshli imáyya.</span></a></li>
+  		<li><a href="audio/The_garfish_dance_is_an_old_dance.mp3" class="audioButton">The garfish dance is an old dance.<br><span>Nani' kallo' hilhaat hilha' sipokni'.</span></a></li>
+  		<li><a href="audio/I hope we sing the stealing partners dance.mp3" class="audioButton">I hope we sing the Stealing Partners dance.<br><span>Ayannili Honkopa' Hilha' ilitaloowachika.</span></a></li>
+  		<li><a href="audio/This dance uses a drum.mp3" class="audioButton">This dance uses a drum.<br><span>Talhipa' yappa ishtihilha'chi.</span></a></li>
+  		<li><a href="audio/The Chickasaw people danced all the time in the homelands.mp3" class="audioButton">The Chickasaw people danced all the time in the homelands.<br><span>Chikashsha' alhiha' iyaakni' sipokni' hoohilha bílli'yanatook.</span></a></li>
+  		<li><a href="audio/After Removal the Chickasaw people still danced.mp3" class="audioButton">After Removal the Chickasaw people could still dance.<br><span>Hoowihaat alakma Chikashsha alhihaat hoohilhani'took</span>.</a></li>
+  		<li><a href="audio/When the last doctor died the Chickasaw quit dancing for a while.mp3" class="audioButton">When the last doctor died the Chickasaw quit dancing for a while.<br><span>Alikchi' ishtalhlhi' illika Chikashsha alhihaat hooaaissachitook hilhaka.</span></a></li>
+  		<li><a href="audio/The_young_people_thought_that_they_should_start_dancing_again_so_they_did.mp3" class="audioButton">The young people thought that they should start dancing again, so they did.<br><span>Himmita' alhihaat anokfillika hoottibaahilhamakila micha hooyammitok.</span></a></li>
+  		<li><a href="audio/Now we dance at Kalihomma' and across the river with the Creeks, Seminoles, Yuchis and Cherokees.mp3" class="audioButton">Now we dance at Kalihomma' and across the river with the Creeks, Seminoles, Yuchis and Cherokees.<br><span>Mako'no Kalihommaako loottibaahilha micha abokoshi' intannap Mashkooki', Shimmanooli', Yochi', Chalaaki' iloottibaahilha</span>.</a></li>
+  		<li><a href="audio/The Chickasaw people will dance, until the world ends.mp3" class="audioButton">The Chickasaw people will dance, until the world ends.<br><span>Nittak ishtayyopi ona'chi Chikashsha alhihaat hoottibaahílhachinka</span>.</a></li>
+  		<li><a href="audio/January.mp3" class="audioButton">January
+  		<li><a href="audio/February.mp3" class="audioButton">February
+  		<li><a href="audio/March.mp3" class="audioButton">March
+  		<li><a href="audio/April.mp3" class="audioButton">April
+  		<li><a href="audio/May.mp3" class="audioButton">May
+  		<li><a href="audio/June.mp3" class="audioButton">June
+  		<li><a href="audio/July.mp3" class="audioButton">July
+  		<li><a href="audio/August.mp3" class="audioButton">August
+  		<li><a href="audio/September.mp3" class="audioButton">September
+  		<li><a href="audio/October.mp3" class="audioButton">October
+  		<li><a href="audio/November.mp3" class="audioButton">November
+  		<li><a href="audio/December.mp3" class="audioButton">December
+ 		<li><a href="audio/Sunday.mp3" class="audioButton">Sunday
+      	<li><a href="audio/Monday.mp3" class="audioButton">Monday
+      	<li><a href="audio/Tuesday.mp3" class="audioButton">Tuesday
+      	<li><a href="audio/Wednesday.mp3" class="audioButton">Wednesday
+      	<li><a href="audio/Thursday.mp3" class="audioButton">Thursday
+      	<li><a href="audio/Friday.mp3" class="audioButton">Friday
+      	<li><a href="audio/Saturday.mp3" class="audioButton">Saturday
+    	<li><a href="audio/Januaryhumes.mp3" class="audioButton">January<br><span>Hushi Ummona</span></a></li>
+    	<li><a href="audio/Februaryhumes.mp3" class="audioButton">February<br><span>Hushi Atuklo</span></a></li>
+    	<li><a href="audio/Marchhumes.mp3" class="audioButton">March<br><span>Hushi Atuchina</span></a></li>
+    	<li><a href="audio/Aprilhumes.mp3" class="audioButton">April<br><span>Eplul</span></a></li>
+    	<li><a href="audio/Mayhumes.mp3" class="audioButton">May<br><span>Me</span></a></li>
+    	<li><a href="audio/Junehumes.mp3" class="audioButton">June<br><span>Chun</span></a></li>
+    	<li><a href="audio/Julyhumes.mp3" class="audioButton">July<br><span>Chulai</span></a></li>
+    	<li><a href="audio/Augusthumes.mp3" class="audioButton">August<br><span>Akus</span></a></li>
+    	<li><a href="audio/Septemberhumes.mp3" class="audioButton">September<br><span>Septimpa</span></a></li>
+    	<li><a href="audio/Octoberhumes.mp3" class="audioButton">October<br><span>Uktopa</span></a></li>
+    	<li><a href="audio/Novemberhumes.mp3" class="audioButton">November<br><span>nofempa</span></a></li>
+    	<li><a href="audio/Decemberhumes.mp3" class="audioButton">December<br><span>Tecimba</span></a></li>
+    	<li><a href="audio/Sundayhumes.mp3" class="audioButton">Sunday<br><span>Ntak Hullo</span></a></li>
+    	<li><a href="audio/Mondayhumes.mp3" class="audioButton">Monday<br><span>Munti</span></a></li>
+    	<li><a href="audio/Tuesdayhumes.mp3" class="audioButton">Tuesday<br><span>Chosti</span></a></li>
+    	<li><a href="audio/Wednesdayhumes.mp3" class="audioButton">Wednesday<br><span>Winsti</span></a></li>
+    	<li><a href="audio/Thursdayhumes.mp3" class="audioButton">Thursday<br><span>Soisti</span></a></li>
+    	<li><a href="audio/Fridayhumes.mp3" class="audioButton">Friday<br><span>Nan Ulhchifa Nitak</span></a></li>
+    	<li><a href="audio/Saturdayhumes.mp3" class="audioButton">Saturday<br><span>Ntiak Hullo Nukfish</span></a></li>
+    	<li><a href="audio/Eyebrowshumes.mp3" class="audioButton">Eyebrows<br><span>Ishkin pukna heshi</span></a></li>
+    	<li><a href="audio/Eyelasheshumes.mp3" class="audioButton">Eyelashes<br><span>Ishkin oshullo</span></a></li>
+    	<li><a href="audio/Girlhumes.mp3" class="audioButton">Girl<br><span>Eho himita</span></a></li>
+    	<li><a href="audio/IndianTribeshumes.mp3" class="audioButton">Indian tribes<br><span>Aiyachufa</span></a></li>
+    	<li><a href="audio/Elderhumes.mp3" class="audioButton">Elder<br><span>Hatuk sipokni</span></a></li>
+    	<li><a href="audio/Deceasedhumes.mp3" class="audioButton">Deceased<br><span>Hatuk illi</span></a></li>
+    	<li><a href="audio/Baptizehumes.mp3" class="audioButton">Baptize<br><span>Baptismochi</span></a></li>
+    	<li><a href="audio/Christianhumes.mp3" class="audioButton">Christian<br><span>Uba anumpa yimmi</span></a></li>
+    	<li><a href="audio/Hymnhumes.mp3" class="audioButton">Hymn<br><span>Taloa</span></a></li>
+    	<li><a href="audio/Jesushumes.mp3" class="audioButton">Jesus<br><span>Chisus</span></a></li>
+    	<li><a href="audio/Truthhumes.mp3" class="audioButton">Truth<br><span><em>A</em>lhi</span></a></li>
+    	<li><a href="audio/Timehumes.mp3" class="audioButton">Time<br><span>Hushi kunitli ulhpisa</span></a></li>
+    	<li><a href="audio/AncientTimehumes.mp3" class="audioButton">Ancient Time<br><span>Hopaki</span></a></li>
+    	<li><a href="audio/Presenthumes.mp3" class="audioButton">Present<br><span>Himonasika</span></a></li>
+    	<li><a href="audio/Pasthumes.mp3" class="audioButton">Past<br><span>Otaiya</span></a></li>
+    	<li><a href="audio/Monthhumes.mp3" class="audioButton">Month<br><span>Hashi</span></a></li>
+    	<li><a href="audio/Hourhumes.mp3" class="audioButton">Hour<br><span>Hashi' kanalli</span></a></li>
+	<li><a href="audio/HatakHushPutaMa.mp3" class="audioButton">Hatak Hush Puta Ma!<br><span>Hatak Hush Puta Ma!</span></a></li>
+	<li><a href="audio/SinnercanyouhatetheSavior.mp3" class="audioButton">Sinner, can you hate the Savior<br><span>Uba Pin Chitokaka Yut</span></a></li>
+	<li><a href="audio/PrayertotheHolySpirit.mp3" class="audioButton">Prayer to the Holy Spirit<br><span>Shilombish Holitopa Ma!</span></a></li>
+    <li><a href="audio/MeditationonDeath.mp3" class="audioButton">Meditation on Death<br><span>Nitak Kanima Fehna ho</span></a></li>
+          mp3: "audio/Welcome1.mp3"
+      supplied: "mp3",
+          mp3: "audio/TheCurrentStateoftheChickasawLanguage.mp3"
+      supplied: "mp3",
+          mp3: "audio/ChickasawDialects.mp3"
+      supplied: "mp3",
+          mp3: "audio/ChickasawSpellingSystems.mp3"
+      supplied: "mp3",
+          mp3: "audio/TheChickasawLanguageRevitalizationProgram.mp3"
+      supplied: "mp3",
+                            <li><a class="audioButton" href="audio/1GlottalStop.mp3">' Glottal Stop</a></li>
+                            <li><a class="audioButton" href="audio/2a.mp3">a</a></li>
+                            <li><a class="audioButton" href="audio/3aa.mp3">aa</a></li>
+                            <li><a class="audioButton" href="audio/4a_underlined.mp3"><u>a</u></a></li>
+                            <li><a class="audioButton" href="audio/5b.mp3">b</a></li>
+                            <li><a class="audioButton" href="audio/6ch.mp3">ch</a></li>
+                            <li><a class="audioButton" href="audio/7f.mp3">f</a></li>
+                            <li><a class="audioButton" href="audio/8h.mp3">h</a></li>
+                            <li><a class="audioButton" href="audio/9i.mp3">i</a></li>
+                            <li><a class="audioButton" href="audio/10ii.mp3">ii</a></li>
+                            <li><a class="audioButton" href="audio/11i_underlined.mp3"><u>i</u></a></li>
+                            <li><a class="audioButton" href="audio/12k.mp3">k</a></li>
+                            <li><a class="audioButton" href="audio/13l.mp3">l</a></li>
+                            <li><a class="audioButton" href="audio/14lh.mp3">lh</a></li>
+                            <li><a class="audioButton" href="audio/15m.mp3">m</a></li>
+                            <li><a class="audioButton" href="audio/16n.mp3">n</a></li>
+                            <li><a class="audioButton" href="audio/17ng.mp3">ng</a></li>
+                            <li><a class="audioButton" href="audio/18o.mp3">o</a></li>
+                            <li><a class="audioButton" href="audio/19oo.mp3">oo</a></li>
+                            <li><a class="audioButton" href="audio/20o_underlined.mp3"><u>o</u></a></li>
+                            <li><a class="audioButton" href="audio/21p.mp3">p</a></li>
+                            <li><a class="audioButton" href="audio/22s.mp3">s</a></li>
+                            <li><a class="audioButton" href="audio/23sh.mp3">sh</a></li>
+                            <li><a class="audioButton" href="audio/24t.mp3">t</a></li>
+                            <li><a class="audioButton" href="audio/25w.mp3">w</a></li>
+                            <li><a class="audioButton" href="audio/26y.mp3">y</a></li>
+            	  <li><a class="audioButton" href="audio/Are_you_Indian.mp3">Are you Indian?<br /><span>Hattak api'ma' chiya?</span></a></li>
+                  <li><a class="audioButton" href="audio/Do_you_speak_Chickasaw.mp3">Do you speak Chickasaw?<br><span>Chikashshanompa' ishanompolitaa?</span></a></li>
+                  <li><a class="audioButton" href="audio/Have_a_nice_day.mp3">Have a nice day. <br><span>Chinittakat chinchokma'shki.</span></a></li>
+                  <li><a class="audioButton" href="audio/Hello_Chickasaw.mp3">Hello.   <br> <span>Hallito / chokma</span></a></li>
+                  <li><a class="audioButton" href="audio/Hello_how_are_you.mp3">Hello, how are you?  <br> <span>Hallito /chokma, chinchoma?</span></a></li>
+                  <li><a href="audio/How_old_are_you.mp3" class="audioButton">How old are you?    <br><span>Afammi kattohmi chimayya'sha?</span></a></li>
+                  <li><a href="audio/I_am_Chickasaw.mp3" class="audioButton">I am Chickasaw.   <br><span>Chikashsha saya.</span></a></li>
+                  <li><a href="audio/I_am_fine.mp3" class="audioButton">I am fine.     <br><span>Anchokma.</span></a></li>
+                  <li><a href="audio/I_am_from_Chickasaw.mp3" class="audioButton">I am from ...   <br><span>Aamintili...</span></a></li>
+                  <li><a href="audio/I_do_not_speak_Chickasaw_very_well.mp3" class="audioButton">I do not speak Chickasaw very well. <br><span>Chikashshanompa' anompolili chokma ki'yo.</span></a></li>
+                  <li><a href="audio/Its_going_to_rain.mp3" class="audioButton">It's going to rain.   <br><span>Omba'chi.</span></a></li>
+                  <li><a href="audio/My_family_is_from_Ada.mp3" class="audioButton">My family is from Ada.      <br><span>Anchokka-chaffaat Ada-ak<u>o</u> aaminti.</span></a></li>
+                  <li><a href="audio/My_name_is.mp3" class="audioButton">My name is ...    <br><span>Saholhchifoat ...</span></a></li>
+                  <li><a href="audio/What_is_your_family_name.mp3" class="audioButton">What is your family name?   <br><span>Chinchokka-chaffat nanta holhchifo?</span></a></li>
+                  <li><a href="audio/What_is_your_name.mp3" class="audioButton">What is your name?    <br><span>Nanta chilholhchifo?</span></a></li>
+                  <li><a href="audio/Where_are_you_from.mp3" class="audioButton">Where are you from?   <br><span>Katiyakta ishaamintitaa?</span></a></li>
+                  <li><a href="audio/You_speak_Chickasaw_very_well.mp3" class="audioButton">You speak Chickasaw very well.   <br><span>Chikashshanompa' ishanompoli chokma.</span></a></li>
+      <li><a href="audio/Who.mp3" class="audioButton">Who    <br><span>kata</span></a></li>
+      <li><a href="audio/Whose.mp3" class="audioButton">Whose  <br><span>kata</span></a></li>
+      <li><a href="audio/Whato.mp3" class="audioButton">What   <br><span>nanta</span></a></li>
+      <li><a href="audio/What color.mp3" class="audioButton">What color  <br><span>pisa-katihmi</span></a></li>
+      <li><a href="audio/What time.mp3" class="audioButton">What time   <br><span>hashi' kanalli nanta</span></a></li>
+      <li><a href="audio/When present.mp3" class="audioButton">When (present tense)  <br><span>kat<u>i</u>hkmak</span></a></li>
+      <li><a href="audio/When past tense.mp3" class="audioButton">When (past tense)   <br><span>kat<u>i</u>hkaash</span></a></li>
+      <li><a href="audio/Where.mp3" class="audioButton">Where   <br><span>katiyakta</span></a></li>
+      <li><a href="audio/Where is.mp3" class="audioButton">Where is   <br><span> ______ mano</span></a></li>
+      <li><a href="audio/Why.mp3" class="audioButton">Why   <br><span>katihmihta</span></a></li>
+      <li><a href="audio/How.mp3" class="audioButton">How   <br><span>kat<u>i</u>hsht</span></a></li>
+      <li><a href="audio/How in what manner.mp3" class="audioButton">How (in what manner)  <br><span>kaniht</span></a></li>
+      <li><a href="audio/How many.mp3" class="audioButton">How many  <br><span>kattohmi</span></a></li>
+      <li><a href="audio/How much does it cost.mp3" class="audioButton">How much does it cost?  <br><span>kattohmi ayalli</span></a></li>
+      <li><a href="audio/Which one.mp3" class="audioButton">Which one?    <br><span>katimpi</span></a></li>
+      <li><a href="audio/Hello are you good.mp3" class="audioButton">Hello, are you good?   <br><span>Hallito / chokma, chinchokma?</span></a></li>
+      <li><a href="audio/Yes and you.mp3" class="audioButton">Yes, and you?   <br><span><u>l</u>i, ishnoako?</span></a></li>
+      <li><a href="audio/Chickasaw language.mp3" class="audioButton">Chickasaw language  <br><span>Chikashshanompa'</span></a></li>
+      <li><a href="audio/English language.mp3" class="audioButton">English language   <br><span>Naahollimanompa'</span></a></li>
+      <li><a href="audio/I speak Chickasaw.mp3" class="audioButton">I speak Chickasaw   <br><span>Chikashshanompolili.</span></a></li>
+      <li><a href="audio/How_do_you_say.mp3" class="audioButton">How do you say _____?    <br><span>Kat<u>i</u>shchi ishaaci ____?</span></a></li>
+      <li><a href="audio/Say it again.mp3" class="audioButton">Say it again.    <br><span>Aachi an<u>o</u>wa.</span></a></li>
+      <li><a href="audio/I understand.mp3" class="audioButton">I understand. <br>   <span>Akostinichili.</span></a></li>
+      <li><a href="audio/Idonotunderstand.mp3" class="audioButton">I do not understand.  <br>  <span>Akostinicho.</span></a></li>
+      <li><a href="audio/What is this in reach.mp3" class="audioButton">What is this (in reach)?   <br><span>Yappa nanta?</span></a></li>
+      <li><a href="audio/What is that out of reach.mp3" class="audioButton">What is that (out of reach)?   <br><span>Yamma nanta?</span></a></li>
+      <li><a href="audio/Again.mp3" class="audioButton">Again    <br><span>An<u>o</u>wa</span></a></li>
+      <li><a href="audio/How_are_you.mp3" class="audioButton">How are you?   <br> <span>Chinchokma?</span></a></li>
+      <li><a href="audio/I_am_bad.mp3" class="audioButton">I am bad    <br><span>Anchokma ki'yo.</span></a></li>
+      <li><a href="audio/I_am_feeling_better.mp3" class="audioButton">I am feeling better <br>   <span>Anchokmakaayni.</span></a></li>
+      <li><a href="audio/I_am_good_And_you.mp3" class="audioButton">I am good. And you?  <br>  <span>Anchokma, ishnaako?</span></a></li>
+      <li><a href="audio/I_dont_know.mp3" class="audioButton">I don't know.<br><span>Akith<u>a</u>no</span></a></li>
+      <li><a href="audio/I_have_to_go.mp3" class="audioButton">I have to go <br> <span> Ayalima'kila.</span></a></li>
+      <li><a href="audio/Say_it_in.mp3" class="audioButton">Say it in Chickasaw  <br>  <span>Chikashshanompa' aachi.</span></a></li>
+      <li><a href="audio/Say_it_slowly.mp3" class="audioButton">Say it slowly. <br>   <span>Chokmalo'si aachi.</span></a></li>
+      <li><a href="audio/Speak_only_in.mp3" class="audioButton">Speak only in Chickasaw  <br>  <span>Chikashshanompa' ila aachi.</span></a></li>
+      <li><a href="audio/Stop_Youre_going_too_fast.mp3" class="audioButton">Stop. You're going too fast.  <br>  <span>Hika, ishpalhkichi salami.</span></a></li>
+      <li><a href="audio/Until_I_see_you_again.mp3" class="audioButton">Until I see you again  <br>  <span>Anowa chipisala'ch<u>o</u>.</span></a></li>
+      <li><a href="audio/What_am_I_doing.mp3" class="audioButton">What am I doing?  <br>  <span> Nanta katihmili?</span></a></li>
+      <li> <a href="audio/What_are_you_doing.mp3" class="audioButton">What are you doing?  <br> <span>Nanta ishkatihmi?</span></a></li>
+      <li><a href="audio/I_am_angry.mp3" class="audioButton">I am angry.   <br><span>Sashaa.</span></a></li>
+      <li><a href="audio/I_am_happy.mp3" class="audioButton">I am happy.    <br><span>Asayoppa.</span></a></li>
+      <li><a href="audio/I_am_hungry.mp3" class="audioButton">I am hungry.    <br><span>Sapoba.</span></a></li>
+      <li><a href="audio/I_am_not_feeling_well.mp3" class="audioButton">I am not feeling well.    <br><span>Iksamalhpi'so.</span></a></li>
+      <li><a href="audio/I_am_scared.mp3" class="audioButton">I am scared.    <br><span>Samihlha.</span></a></li>
+      <li><a href="audio/I_am_thirsty.mp3" class="audioButton">I am thirsty.    <br><span>Sanokshila.</span></a></li>
+      <li><a href="audio/I_like_that_kid.mp3" class="audioButton">I like that kid.   <br> <span>Chipotaak<u>o</u> ayoppáshli.</span></a></li>
+      <li><a href="audio/I_love_my_grandpa.mp3" class="audioButton">I love my grandma.    <br><span>Appo'si' <u>i</u>holloli.</span></a></li>
+      <li><a href="audio/I_love_my_grandma.mp3" class="audioButton">I love my grandpa.   <br><span>Amafo'si' <u>i</u>holloli.</span></a></li>
+      <li><a href="audio/I_want_some_water.mp3" class="audioButton">I want some water.   <br><span>Oka' sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_go_play.mp3" class="audioButton">I want to go play.   <br> <span>Chokoshkomo aya sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_listen_to_the_iPod.mp3" class="audioButton">I want to listen to the iPod. <br>   <span>Nanola' haklo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_ball.mp3" class="audioButton">I want to play ball.  <br>  <span>To'li' chokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_video_games.mp3" class="audioButton">I want to play video games.    <br><span>Holba' ishtchokoshkomo' chokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_play_with_my_friend.mp3" class="audioButton">I want to play with my friend.    <br><span>Ankana ibaachokoshkomo sabanna.</span></a></li>
+      <li><a href="audio/I_want_to_watch_television_TV.mp3" class="audioButton">I want to watch TV  <br>  <span>Holba' aapisa' pisa sabanna.</span></a></li>
+      <li><a href="audio/Mommy_I_want_to_go_potty.mp3" class="audioButton">Mommy, I want to go potty.  <br>  <span>Sashki, abooshi' aya sabanna.</span></a></li>
+      <li><a href="audio/My_family_shops_at_WalMart.mp3" class="audioButton">My family shops at Wal-Mart.  <br>  <span>Anchokka-chaffa' Wal-Martak<u>o</u> aachompa.</span></a></li>
+      <li><a href="audio/This_is_funny.mp3" class="audioButton">This is funny.  <br> <span>Yappat ikkosti'no.</span></a></li>
+      <li><a href="audio/This_is_no_fun.mp3" class="audioButton">This is not fun.  <br>  <span>Yappat ikchokmo.</span></a></li>
+      <li><a href="audio/You_smell_good.mp3" class="audioButton">You smell good.   <br> <span>Chibilama.</span></a></li>
+      <li><a href="audio/I_see.mp3" class="audioButton">I see.    <br><span>Pisali.</span></a></li>
+      <li><a href="audio/I_see_a_dog.mp3" class="audioButton">I see a dog.  <br>  <span>Ofi' pisali.</span></a></li>
+      <li><a href="audio/Big_Small.mp3" class="audioButton">Big, Small  <br>  <span>Ishto', ishkanno'si'</span></a></li>
+      <li><a href="audio/House.mp3" class="audioButton">House <br>   <span>Abooha</span></a></li>
+      <li><a href="audio/I_see_a_big_house.mp3" class="audioButton">I see a big house. <br>   <span>Abooha ishto' pisali.</span></a></li>
+      <li><a href="audio/I_see_a_small_cat.mp3" class="audioButton">I see a small cat  <br>  <span>Kowi' iskanno' pisali.</span></a></li>
+      <li><a href="audio/car.mp3" class="audioButton">Car  <br>  <span>Itti' chanaa' palhki'</span></a></li>
+      <li><a href="audio/I_see_a_yellow_car.mp3" class="audioButton">I see a yellow car  <br>  <span>Itti' chanaa' palhki' lakna' pisali.</span></a></li>
+      <li> <a href="audio/Be_polite.mp3" class="audioButton">Be polite.    <br><span>Chokma ishatta'shki.</span></a></li>
+      <li> <a href="audio/Behave.mp3" class="audioButton">Behave!   <br> <span>Nokchito!</span></a></li>
+      <li><a href="audio/Clean_your_room.mp3" class="audioButton">Clean your room.  <br> <span> Chimabooha' chofalli.</span></a></li>
+      <li><a href="audio/Come_and_eat.mp3" class="audioButton">Come and eat.  <br>  <span>Minti cha impa.</span></a></li>
+      <li> <a href="audio/Dont_argue.mp3" class="audioButton">Don't argue!  <br> <span>Ishtachapanna!</span></a></li>
+      <li><a href="audio/Dont_fight.mp3" class="audioButton">Don't fight!    <br> <span>Ittibinna!</span></a></li>
+      <li> <a href="audio/Go_to_bed.mp3" class="audioButton">Go to bed.   <br> <span> Nosit aya.</span></a></li>
+      <li><a href="audio/Help_me_clean_the_table.mp3" class="audioButton"> Help me clean the table.   <br>  <span>Aaimpa' chofallikat sapila.</span></a></li>
+      <li><a href="audio/Help_me_in_the_kitchen.mp3" class="audioButton"> Help me in the kitchen.  <br>  <span> Aalhponi' asapila.</span></a></li>
+      <li><a href="audio/Help_me_with_the_dishes.mp3" class="audioButton">Help me with the dishes.  <br>   <span>Amposhi' chofallikat sapila.</span></a></li>
+      <li><a href="audio/Help_me_with_the_laundry.mp3" class="audioButton">Help me with the laundry.  <br>  <span>Naafokha achifakat sapila.</span></a></li>
+      <li><a href="audio/Help_your_dad_inside.mp3" class="audioButton">Help your dad inside. <br>   <span>Anonkaka' chinki' apila.</span></a></li>
+      <li><a href="audio/Help_your_dad_outside.mp3" class="audioButton">Help your dad outside. <br>   <span>Kochchaat chinki' apila.</span></a></li>
+      <li><a href="audio/Help_your_dad.mp3" class="audioButton">Help your dad. <br>  <span> Chinki' apila.</span></a></li>
+      <li><a href="audio/I_am_sorry.mp3" class="audioButton">I am sorry. <br>   <span>Sanokhánglo.</span></a></li>
+      <li><a href="audio/I_love_you.mp3" class="audioButton">I love you. <br>   <span>Chiholloli.</span></a></li>
+      <li><a href="audio/I_should_not_have_done_that.mp3" class="audioButton">I should not have done that.  <br>  <span>Akyammokantkant.</span></a></li>
+      <li><a href="audio/No.mp3" class="audioButton">No.  <br>  <span>Ki'yo.</span></a></li>
+      <li><a href="audio/Respect_your_elders.mp3" class="audioButton">Respect your elders. <br>   <span>Kamassa' ishholiitobla'shki.</span></a></li>
+      <li><a href="audio/Thank_you.mp3" class="audioButton">Thank you.  <br>  <span>Chokma'shki / Yakookay</span></a></li>
+      <li><a href="audio/Turn_off_the_television.mp3" class="audioButton">Turn off the television.<br>
+      <li><a href="audio/Yes.mp3" class="audioButton">Yes.<br /><span><u>I</u>i / Hoomi.</span></a></li>
+      <li><a href="audio/You_are_a_good_boy.mp3" class="audioButton">You are a good boy.<br>
+      <li><a href="audio/You_are_a_good_girl.mp3" class="audioButton">You are a good girl.<br>
+      <li><a href="audio/You_behave.mp3" class="audioButton">You behave.<br>
+      <li><a href="audio/You_can_go_and_get_it.mp3" class="audioButton">You can go and get it.<br>
+      <li><a href="audio/You_can_have_it.mp3" class="audioButton">You can have it.<br>
+      <li><a href="audio/You_cannot_have_it.mp3" class="audioButton">You cannot have it<br>
+          <li><a href="audio/Are_you_hungry2.mp3" class="audioButton">Are you hungry?<br><span>Chipobataa?</span></a></li>
+          <li><a href="audio/Beans.mp3" class="audioButton">Beans <br><span>Bala'</span></a></li>
+          <li><a href="audio/Can_I_eat.mp3" class="audioButton">Can I eat?<br><span>
+          <li><a href="audio/Come_to_eat_group.mp3" class="audioButton">Come to eat {group}. <br><span>Hashminticha impa.</span></a>
+          <li> <a href="audio/Come_to_eat_single_person.mp3" class="audioButton">Come to eat {single person}<br><span>Ishminticha impa.</span></a></li>
+          <li><a href="audio/Do_you_have_any_food.mp3" class="audioButton">Do you have any food? <br>
+          <li><a href="audio/Do_you_want_to_eat.mp3" class="audioButton">Do you want to eat? <br>
+          <li><a href="audio/Express_the_food_is_great.mp3" class="audioButton">The food is great! <br>
+          <li><a href="audio/Express_the_food_is_not_so_good.mp3" class="audioButton">The food is not so good. <br>
+          <li><a href="audio/Give_me_the_beans.mp3" class="audioButton">Give me the beans. <br>
+		  <li><a href="audio/Give_me_the.mp3" class="audioButton">Give me the... <br>
+		  <li><a href="audio/I_am_not_hungry.mp3" class="audioButton">I am not hungry.      <br> 	   <span>Sapoba ki'yo.</span></a></li>
+		  <li><a href="audio/I_am_not_tipping.mp3" class="audioButton">I am not tipping. <br>
+		  <li><a href="audio/I_am_tipping.mp3" class="audioButton">I am tipping.     <br>
+		  <li><a href="audio/I_want_some_biscuits_and_gravy.mp3" class="audioButton">I want some biscuits and gravy.   <br>
+		  <li><a href="audio/I_want_some_bread_and_butter.mp3" class="audioButton">I want some bread and butter. <br>
+		  <li><a href="audio/I_want_some_cake.mp3" class="audioButton">I want some cake. <br>
+		  <li><a href="audio/I_want_some_coffee.mp3" class="audioButton">I want some coffee. <br>
+		  <li><a href="audio/I_want_some_eggs_and_bacon.mp3" class="audioButton">I want some eggs and bacon. <br>
+		 <li><a href="audio/I_want_some_food.mp3" class="audioButton">I want some food. <br>
+		 <li><a href="audio/I_want_some_fried_chicken.mp3" class="audioButton">I want some fried chicken.    <br>      
+		 <li><a href="audio/I_want_some_fries.mp3" class="audioButton">I want some fries. <br>
+		 <li><a href="audio/I_want_some_fruits.mp3" class="audioButton">I want some fruits. <br>
+		 <li><a href="audio/I_want_some_frybread.mp3" class="audioButton">I want some frybread. <br>
+		 <li><a href="audio/I_want_some_green_beans.mp3" class="audioButton">I want some green beans. <br>
+		 <li><a href="audio/I_want_some_hamburgers.mp3" class="audioButton">I want some hamburgers. <br>
+		<li><a href="audio/I_want_some_ice_cream.mp3" class="audioButton">I want some ice cream. <br>
+		<li><a href="audio/I_want_some_meat.mp3" class="audioButton">I want some meat. <br>
+		<li><a href="audio/I_want_some_pie.mp3" class="audioButton">I want some pie. <br>
+		<li><a href="audio/I_want_some_potatoes.mp3" class="audioButton">I want some potatoes. <br>
+		<li><a href="audio/I_want_some_soda_pop.mp3" class="audioButton">I want some sodapop. <br>
+		<li><a href="audio/I_want_some_vegetables.mp3" class="audioButton">I want some vegetables. <br>
+		<li><a href="audio/I_want_to_eat.mp3" class="audioButton">I want to eat. <br>
+		<li><a href="audio/Is_there_anything_to_eat_here.mp3" class="audioButton">Is there anything to eat here? <br>
+		<li><a href="audio/Pass_the_salt_and_pepper.mp3" class="audioButton">Pass the salt and pepper.	<br>
+		<li><a href="audio/something_sweet.mp3" class="audioButton">Something sweet <br>
+		<li><a href="audio/The_beans_are_very_good.mp3" class="audioButton">The beans are very good. <br>
+		<li><a href="audio/The_service_in_the_restaurant_is_good.mp3" class="audioButton">The service in the restaurant is good. <br>
+		<li><a href="audio/The_service_is_terrible.mp3" class="audioButton">The service is terrible. <br>
+		<li><a href="audio/What_do_you_want_to_drink.mp3" class="audioButton">What do you want to drink? <br>
+		<li><a href="audio/What_do_you_want_to_eat.mp3" class="audioButton">What do you want to eat? <br>
+		<li><a href="audio/What_have_you_got_to_eat.mp3" class="audioButton">What have you got to eat? <br>
+		<li><a href="audio/Where_can_I_get_something_to_eat.mp3" class="audioButton">Where can I get something to eat? <br>
+		<li><a href="audio/You_dont_have_to_cook.mp3" class="audioButton">You don't have to cook. <br>
+		<li><a href="audio/I_want_some_water.mp3" class="audioButton">I want some water.	<br>
+   		<a href="audio/Arm.mp3" class="audioButton">Arm
+   		<a href="audio/Back.mp3" class="audioButton">Back
+      	<a href="audio/Beard.mp3" class="audioButton">Beard
+      	<a href="audio/Bellybutton.mp3" class="audioButton">Bellybutton
+      <li> <a href="audio/Blood.mp3" class="audioButton">Blood
+      <li> <a href="audio/Body.mp3" class="audioButton">Body
+      <li> <a href="audio/Bone.mp3" class="audioButton">Bone
+      <li> <a href="audio/Chest.mp3" class="audioButton">Chest
+      <li> <a href="audio/Chin.mp3" class="audioButton">Chin
+      <li> <a href="audio/Ears.mp3" class="audioButton">Ears
+      	<a href="audio/Elbow.mp3" class="audioButton">Elbow
+      	<a href="audio/Eye.mp3" class="audioButton">Eye
+      	<a href="audio/Eyebrows.mp3" class="audioButton">Eyebrows
+      	<a href="audio/Eyelashes.mp3" class="audioButton">Eyelashes
+      	<a href="audio/Feet.mp3" class="audioButton">Feet
+      	<a href="audio/Finters.mp3" class="audioButton">Fingers
+      	<a href="audio/Hair.mp3" class="audioButton">Hair
+      	<a href="audio/Hand.mp3" class="audioButton">Hand
+      	<a href="audio/Head.mp3" class="audioButton">Head
+      	<a href="audio/Heart.mp3" class="audioButton">Heart
+      	<a href="audio/Intestines.mp3" class="audioButton">Intestines
+      	<a href="audio/Knee.mp3" class="audioButton">Knee
+      	<a href="audio/Leg.mp3" class="audioButton">Leg
+      	<a href="audio/Liver.mp3" class="audioButton">Liver
+      	<a href="audio/Mouth.mp3" class="audioButton">Mouth
+      	<a href="audio/Muscle_Tendons.mp3" class="audioButton">Muscle, Tendon, Nerve
+      	<a href="audio/Neck.mp3" class="audioButton">Neck
+      	<a href="audio/Nose.mp3" class="audioButton">Nose
+      	<a href="audio/Ribs.mp3" class="audioButton">Rib
+      	<a href="audio/Shoulder.mp3" class="audioButton">Shoulder
+      	<a href="audio/Stomach_belly.mp3" class="audioButton">Stomach, Belly
+      	<a href="audio/Tooth.mp3" class="audioButton">Tooth?????????????????????????
+      	<a href="audio/Thigh.mp3" class="audioButton">Thigh
+      	<a href="audio/Thumb.mp3" class="audioButton">Thumb
+      	<a href="audio/Toes.mp3" class="audioButton">Toes
+      	<a href="audio/Tongue.mp3" class="audioButton">Tongue
+      	<a href="audio/This_is_a.mp3" class="audioButton">This is a…
+      	<a href="audio/This_is_a_dog.mp3" class="audioButton">This is a dog
+      	<a href="audio/Dog.mp3" class="audioButton">Dog
+      	<a href="audio/Alligator.mp3" class="audioButton">Alligator
+      	<a href="audio/Bear.mp3" class="audioButton">Bear
+      	<a href="audio/Beaver.mp3" class="audioButton">Beaver
+      	<a href="audio/Bird .mp3" class="audioButton">Bird
+      	<a href="audio/Blackbird.mp3" class="audioButton">Blackbird
+      	<a href="audio/Buffalo.mp3" class="audioButton">Buffalo
+      	<a href="audio/Bug.mp3" class="audioButton">Bug
+      	<a href="audio/Cat.mp3" class="audioButton">Cat
+      	<a href="audio/Chicken.mp3" class="audioButton">Chicken
+      	<a href="audio/Coyote.mp3" class="audioButton">Coyote
+      	<a href="audio/Crow.mp3" class="audioButton">Crow
+      	<a href="audio/Deer.mp3" class="audioButton">Deer
+      	<a href="audio/Eagle.mp3" class="audioButton">Eagle
+      	<a href="audio/Elk.mp3" class="audioButton">Elk
+      	<a href="audio/Fish.mp3" class="audioButton">Fish
+      	<a href="audio/Fox .mp3" class="audioButton">Fox
+      	<a href="audio/Frog.mp3" class="audioButton">Frog
+      	<a href="audio/Gopher.mp3" class="audioButton">Gopher
+      	<a href="audio/Hawk.mp3" class="audioButton">Hawk
+      	<a href="audio/Horse.mp3" class="audioButton">Horse
+      	<a href="audio/Lizard.mp3" class="audioButton">Lizard
+      	<a href="audio/Mouse .mp3" class="audioButton">Mouse
+      	<a href="audio/Owl.mp3" class="audioButton">Owl
+      	<a href="audio/Panther.mp3" class="audioButton">Panther
+      	<a href="audio/Rabbit.mp3" class="audioButton">Rabbit
+      	<a href="audio/Raccoon.mp3" class="audioButton">Raccoon
+      	<a href="audio/Red_fox.mp3" class="audioButton">Red Fox
+      	<a href="audio/Skunk.mp3" class="audioButton">Skunk
+      	<a href="audio/Snake.mp3" class="audioButton">Snake
+      	<a href="audio/Spider.mp3" class="audioButton">Spider
+      	<a href="audio/Squirrel.mp3" class="audioButton">Squirrel
+      	<a href="audio/Turkey.mp3" class="audioButton">Turkey
+      	<a href="audio/Turtle.mp3" class="audioButton">Turtle
+      	<a href="audio/Wildcat.mp3" class="audioButton">Wildcat
+      	<a href="audio/Wolf.mp3" class="audioButton">Wolf
+      	<a href="audio/Mother.mp3" class="audioButton">Mother
+      	<a href="audio/Father.mp3" class="audioButton">Father
+      	<a href="audio/Grandmother.mp3" class="audioButton">Grandmother
+      	<a href="audio/Grandfather.mp3" class="audioButton">Grandfather
+      	<a href="audio/Grandchild.mp3" class="audioButton">Grandchild
+      	<a href="audio/Uncle.mp3" class="audioButton">Uncle
+      	<a href="audio/Aunt.mp3" class="audioButton">Aunt
+      	<a href="audio/Husband.mp3" class="audioButton">Husband
+      	<a href="audio/Wife.mp3" class="audioButton">Wife
+      	<a href="audio/Brother.mp3" class="audioButton">Brother
+      	<a href="audio/Sister.mp3" class="audioButton">Sister
+      	<a href="audio/Daughter.mp3" class="audioButton">Daughter
+      	<a href="audio/Son.mp3" class="audioButton">Son
+      	<a href="audio/One.mp3" class="audioButton">One
+      	<a href="audio/Two.mp3" class="audioButton">Two
+      	<a href="audio/Three.mp3" class="audioButton">Three
+      	<a href="audio/Four.mp3" class="audioButton">Four
+      	<a href="audio/Five.mp3" class="audioButton">Five
+      	<a href="audio/Six.mp3" class="audioButton">Six
+      	<a href="audio/Seven.mp3" class="audioButton">Seven
+      	<a href="audio/Eight.mp3" class="audioButton">Eight
+      	<a href="audio/Nine.mp3" class="audioButton">Nine
+      	<a href="audio/Ten.mp3" class="audioButton">Ten
+      	<a href="audio/Eleven.mp3" class="audioButton">Eleven
+      	<a href="audio/Twelve.mp3" class="audioButton">Twelve
+      	<a href="audio/Thirteen.mp3" class="audioButton">Thirteen
+      	<a href="audio/Fourteen.mp3" class="audioButton">Fourteen
+      <a href="audio/Fifteen.mp3" class="audioButton">Fifteen
+      	<a href="audio/Sixteen.mp3" class="audioButton">Sixteen
+      	<a href="audio/Seventeen.mp3" class="audioButton">Seventeen
+      	<a href="audio/Eighteen.mp3" class="audioButton">Eighteen
+      	<a href="audio/Nineteen.mp3" class="audioButton">Nineteen
+      <li><a href="audio/Twenty.mp3" class="audioButton">Twenty
+      <li><a href="audio/Thirty.mp3" class="audioButton">Thirty
+      <li><a href="audio/Forty.mp3" class="audioButton">Forty
+      <li><a href="audio/Fifty.mp3" class="audioButton">Fifty
+      <li><a href="audio/Sixty.mp3" class="audioButton">Sixty
+      <li><a href="audio/Seventy.mp3" class="audioButton">Seventy
+      <li><a href="audio/Eighty.mp3" class="audioButton">Eighty
+      <li><a href="audio/Ninety.mp3" class="audioButton">Ninety
+      <li><a href="audio/One_hundred.mp3" class="audioButton">One Hundred
+      <li><a href="audio/One_thousand.mp3" class="audioButton">One Thousand
+      <li><a href="audio/Yellow.mp3" class="audioButton">Yellow
+      <li><a href="audio/Red.mp3" class="audioButton">Red
+      <li><a href="audio/Pink.mp3" class="audioButton">Pink
+      <li><a href="audio/Green.mp3" class="audioButton">Green
+      <li><a href="audio/Blue.mp3" class="audioButton">Blue
+      <li><a href="audio/Brown.mp3" class="audioButton">Brown
+      <li><a href="audio/Orange.mp3" class="audioButton">Orange
+      <li><a href="audio/Purple.mp3" class="audioButton">Purple
+      <li><a href="audio/Gray.mp3" class="audioButton">Gray
+      <li><a href="audio/Black.mp3" class="audioButton">Black
+      <li><a href="audio/White.mp3" class="audioButton">White
+      <li><a href="audio/Rainbow.mp3" class="audioButton">Rainbow
+      <li><a href="audio/Colors.mp3" class="audioButton">Colors
+      <li><a href="audio/Be_nice.mp3" class="audioButton">Be nice. <br><span>Chinokchinta'shki.</span></a></li>
+      <li><a href="audio/Be_quiet.mp3" class="audioButton">Be quiet. <br><span>Chokkilissa.</span></a></li>
+      <li><a href="audio/Be_wise.mp3" class="audioButton">Be wise. <br><span>Imponna.</span></a></li>
+      <li><a href="audio/Buy_it.mp3" class="audioButton">Buy it. <br><span>Chompa.</span></a></li>
+      <li><a href="audio/Clean_this_house.mp3" class="audioButton">Clean this house. <br><span>Aboo yappa chofalli.</span></a></li>
+      <li><a href="audio/Clean_this_up.mp3" class="audioButton">Clean this up. <br><span>Yappa chofalli.</span></a></li>
+      <li><a href="audio/Come and visit.mp3" class="audioButton">Come and visit. <br><span>Minti cha anchokkaalaa.</span></a></li>
+      <li><a href="audio/Come_in.mp3" class="audioButton">Come in. <br><span>Chokkowa.</span></a></li>
+      <li><a href="audio/Come_over_here.mp3" class="audioButton">Come over here. <br><span>Mintibaa.</span></a></li>
+      <li><a href="audio/Cover_this_up.mp3" class="audioButton">Cover this up. <br><span>Yappa alhiibli.</span></a></li>
+      <li><a href="audio/Dont_do_that.mp3" class="audioButton">Don't do that. <br><span>Yamminna.</span></a></li>
+      <li><a href="audio/Get_up.mp3" class="audioButton">Get up. <br><span>Hika.</span></a></li>
+      <li><a href="audio/Go_away.mp3" class="audioButton">Go away. <br><span>Aya.</span></a></li>
+      <li><a href="audio/Go_home_now.mp3" class="audioButton">Go home now. <br><span>Chinchokka' mako'sa aya.</span></a></li>
+      <li><a href="audio/Got_to_town.mp3" class="audioButton">Go to town. <br><span>Aachompa' aya.</span></a></li>
+      <li><a href="audio/Hear_me.mp3" class="audioButton">Hear me. <br><span>Sahánglo.</span></a></li>
+      <li><a href="audio/Lets_dance.mp3" class="audioButton">Let's dance. <br><span>Ilihilha'.</span></a></li>
+      <li><a href="audio/Lets_go_eat.mp3" class="audioButton">Let's go eat. <br><span>Ilimpat liya.</span></a></li>
+      <li><a href="audio/Lets_go_play_outside.mp3" class="audioButton">Let's go play outside. <br><span>Kochchat ayat ilichokoshkomo'.</span></a></li>
+      <li><a href="audio/Lets_go_to_church.mp3" class="audioButton">Let's go to church. <br><span>Aaittanaha' iliya'.</span></a></li>
+      <li><a href="audio/Lets_go.mp3" class="audioButton">Let's go. <br><span>Iliya'.</span></a></li>
+      <li><a href="audio/Lets_help_them.mp3" class="audioButton">Let's all help them. <br><span>Loapila'.</span></a></li>
+      <li><a href="audio/Lets_play_stickball.mp3" class="audioButton">Let's play stickball. <br><span>Kapochcha' ilito'li'!</span></a></li>
+      <li><a href="audio/Look.mp3" class="audioButton">Look. <br><span>Pisa.</span></a></li>
+      <li><a href="audio/Make_some_frybread.mp3" class="audioButton">Make some frybread. <br> <span>Paska awaalhali' ikbi.</span></a></li>
+      <li><a href="audio/Put_on_your_jacket.mp3" class="audioButton">Put on your jacket <br><span>Chinaafkishto' fokha.</span></a></li>
+      <li><a href="audio/Put_on_your_shoes.mp3" class="audioButton">Put on your shoes. <br> <span>Chisholosh hollo.</span></a></li>
+      <li><a href="audio/Put_your_hat_on.mp3" class="audioButton">Put your hat on. <br><span>Chiyaalhipa' fokha.</span></a></li>
+      <li><a href="audio/Say_it.mp3" class="audioButton">Say it. <br><span>Aachi.</span></a></li>
+      <li><a href="audio/Shake_my_hand.mp3" class="audioButton">Shake my hand. <br><span>Salbak sayoppachi.</span></a></li>
+      <li><a href="audio/Show_me.mp3" class="audioButton">Show me. <br><span>Sapisa'chi.</span></a></li>
+      <li><a href="audio/Sit_down.mp3" class="audioButton">Sit down. <br><span>Binnili.</span></a></li>
+      <li><a href="audio/Sit_quiet.mp3" class="audioButton">Sit quietly. <br> <span>Chokillisaat binnili.</span></a></li>
+      <li><a href="audio/Sorry.mp3" class="audioButton">Sorry. <br><span> Nokhánglo.</span></a></li>
+      <li><a href="audio/Stand_up.mp3" class="audioButton">Stand up. <br><span>Hika.</span></a></li>
+      <li><a href="audio/Stop_it.mp3" class="audioButton">Stop it. <br><span>Iissachi.</span></a></li>
+      <li><a href="audio/Talk_to_me.mp3" class="audioButton">Talk to me. <br><span>Amanompoli.</span></a></li>
+      <li><a href="audio/Tell_me_a_story.mp3" class="audioButton">Tell me a story. <br><span>Nanna anoli amanoli.</span></a></li>
+      <li><a href="audio/Tell_me.mp3" class="audioButton">Tell me. <br><span>Amanoli.</span></a></li>
+      <li><a href="audio/Tell_the_truth.mp3" class="audioButton">Tell the truth. <br><span>Alhlhi anoli.</span></a></li>
+      <li><a href="audio/Turn_the_light_on.mp3" class="audioButton">Turn the light on. <br><span>Aashoppala' aashoppalali.</span></a></li>
+      <li><a href="audio/Wait_here.mp3" class="audioButton">Wait here. <br><span>Yappa himóna.</span></a></li>
+      <li><a href="audio/Wait_over_there.mp3" class="audioButton">Wait over there. <br><span>Misha pila himóna.</span></a></li>
+      <li><a href="audio/You_better_watch_out.mp3" class="audioButton">You better watch out. <br><span>Yammisha'na'shki!</span></a></li>
+      <li><a href="audio/You_must_come_with_me.mp3" class="audioButton">You must come with me. <br><span>Issabaya'shki.</span></a></li>
+      <li><a href="audio/People.mp3" class="audioButton">People
+      <li><a href="audio/Woman.mp3" class="audioButton">Woman
+      <li><a href="audio/Man.mp3" class="audioButton">Man
+      <li><a href="audio/Child.mp3" class="audioButton">Child
+      <li><a href="audio/Baby.mp3" class="audioButton">Baby
+      <li><a href="audio/Boy.mp3" class="audioButton">Boy
+      <li><a href="audio/BoyTeenage.mp3" class="audioButton">Boy, teenage
+      <li><a href="audio/Girl.mp3" class="audioButton">Girl
+      <li><a href="audio/GirlTeenage.mp3" class="audioButton">Girl, teenage
+      <li><a href="audio/Elder.mp3" class="audioButton">Elder
+      <li><a href="audio/Chief.mp3" class="audioButton">Chief
+      <li><a href="audio/Deceased.mp3" class="audioButton">Deceased
+      <li><a href="audio/IndianPeople.mp3" class="audioButton">Indian People
+      <li><a href="audio/IndianMan.mp3" class="audioButton">Indian man
+      <li><a href="audio/IndianWoman.mp3" class="audioButton">Indian woman
+      <li><a href="audio/IndianTribes.mp3" class="audioButton">Indian tribes
+      <li><a href="audio/Boss.mp3" class="audioButton">Boss
+      <li><a href="audio/Dentist.mp3" class="audioButton">Dentist
+      <li><a href="audio/Doctor.mp3" class="audioButton">Doctor
+      <li><a href="audio/Fireman.mp3" class="audioButton">Fireman
+      <li><a href="audio/MailCarrier.mp3" class="audioButton">Mail Carrier
+      <li><a href="audio/Nurse.mp3" class="audioButton">Nurse
+      <li><a href="audio/PoliceOfficer.mp3" class="audioButton">Police Officer
+      <li><a href="audio/Soldier.mp3" class="audioButton">Soldier
+      <li><a href="audio/Teacher.mp3" class="audioButton">Teacher
+      <li><a href="audio/BlackBerryPhone.mp3" class="audioButton">BlackBerry Phone <br><span>Bissa' Losa'</span></a></li>
+      <li><a href="audio/Camera.mp3" class="audioButton">Camera <br><span>Ishtholbachi'</span></a></li>
+      <li><a href="audio/CellPhone.mp3" class="audioButton">Cell Phone <br><span>Talanompoli', talaanompa' ishtáa'</span></a></li>
+      <li><a href="audio/Computer.mp3" class="audioButton">Computer <br><span>Tali' lopi', tali' aaithána'</span></a></li>
+      <li><a href="audio/Email.mp3" class="audioButton">Email <br><span>Holisso palhki'</span></a></li>
+      <li><a href="audio/Internet.mp3" class="audioButton">Internet <br><span>Tali' lopi' lawa', tali' ithána' lawa'</span></a></li>
+      <li><a href="audio/iPodnew.mp3" class="audioButton">iPod <br><span>Nanola'</span></a></li>
+      <li><a href="audio/Memorandum.mp3" class="audioButton">Memorandum <br><span>Holisso pilachi'</span></a></li>
+      <li><a href="audio/Phone.mp3" class="audioButton">Phone <br><span>Talaanompa', tali' anompoli'</span></a></li>
+      <li><a href="audio/Teleconferencing.mp3" class="audioButton">Teleconferencing <br><span>Holba' aaittafamma anompoli'</span></a></li>
+      <li><a href="audio/Television.mp3" class="audioButton">Television <br><span>Holba' aapisa'</span></a></li>
+      <li><a href="audio/VideoGame.mp3" class="audioButton">Video Game <br><span>Holba' ishtchokoshkomo'</span></a></li>
+      <li><a href="audio/VideoPlayer.mp3" class="audioButton">Video player / video <br><span>Holba' aapisa'</span></a></li>
+      <li><a href="audio/Autumn.mp3" class="audioButton">Autumn <br><span>Hashtola' ámmo'na'</span></a></li>
+      <li><a href="audio/Hows_the_weather.mp3" class="audioButton">How's the weather? <br><span>Kochcha' katihmi? </span></a></li>
+      <li><a href="audio/It_is_cloudy.mp3" class="audioButton">It is cloudy. <br><span>Hoshonti.</span></a></li>
+      <li><a href="audio/It_is_hailing.mp3" class="audioButton">It is hailing. <br><span>Bachalosha.</span></a></li>
+      <li><a href="audio/It_is_raining.mp3" class="audioButton">It is raining. <br><span>Omba.</span></a></li>
+      <li><a href="audio/It_is_snowing.mp3" class="audioButton">It is snowing. <br><span>Oktosha.</span></a></li>
+      <li><a href="audio/It_is_sunny.mp3" class="audioButton">It is sunny. <br><span>Hashi' toomi.</span></a></li>
+      <li><a href="audio/It_is_windy.mp3" class="audioButton">It is windy. <br><span>Mahli.</span></a></li>
+      <li><a href="audio/Its_a_cold_day .mp3" class="audioButton">It's a cold day. <br><span>Himmaka nittakat kapassa.</span></a></li>
+      <li><a href="audio/Its_a_warm_day.mp3" class="audioButton">It's a warm day. <br><span>Himmaka nittakat lashpa.</span></a></li>
+      <li><a href="audio/Snow.mp3" class="audioButton">Snow <br><span>Okti'</span></a></li>
+      <li><a href="audio/Spring.mp3" class="audioButton">Spring <br><span>Toompalli' Ishtayya'</span></a></li>
+      <li><a href="audio/Summer.mp3" class="audioButton">Summer <br><span>Toompalli'</span></a></li>
+      <li><a href="audio/The_sky_is_dark.mp3" class="audioButton">The sky is dark. <br><span>Shotikat oklhilli.</span></a></li>
+      <li><a href="audio/The_sun_is_rising.mp3" class="audioButton">The sun is rising. <br><span>Hashiat kochcha.</span></a></li>
+      <li><a href="audio/The_sun_is_setting.mp3" class="audioButton">The sun is setting. <br><span>Hashiat ittola.</span></a></li>
+      <li><a href="audio/The_sun_rises_in_the_east_and_sets_in_the_west.mp3" class="audioButton">The sun rises in the east and sets in the west. <br><span>Hashaakochcha' hashiat kochcha cha hashaakottola' hashiat ittola.</span></a></li>
+      <li><a href="audio/The_weather_is_bad.mp3" class="audioButton">The weather is bad. <br><span>Kochchaat ikchokmo.</span></a></li>
+      <li><a href="audio/The_weather_is_good.mp3" class="audioButton">The weather is good. <br><span>Kochchaat chokma.</span></a></li>
+      <li><a href="audio/Winter.mp3" class="audioButton">Winter <br><span>Hashtola'</span></a></li>
+      <li><a href="audio/Day.mp3" class="audioButton">Day
+      <li><a href="audio/Week.mp3" class="audioButton">Week
+      <li><a href="audio/Month.mp3" class="audioButton">Month
+      <li><a href="audio/Year.mp3" class="audioButton">Year
+      <li><a href="audio/Hour.mp3" class="audioButton">Hour
+      <li><a href="audio/Minute.mp3" class="audioButton">Minute
+      <li><a href="audio/Midday.mp3" class="audioButton">Mid day / Lunch	time
+      <li><a href="audio/Time.mp3" class="audioButton">Time
+      <li><a href="audio/Clock.mp3" class="audioButton">Clock
+      <li><a href="audio/Future.mp3" class="audioButton">Future
+      <li><a href="audio/Past.mp3" class="audioButton">Past
+      <li><a href="audio/Present.mp3" class="audioButton">Present
+      <li><a href="audio/Ancienttime.mp3" class="audioButton">Ancient time
+      <li><a href="audio/Baptize.mp3" class="audioButton">Baptize
+      <li><a href="audio/Bible.mp3" class="audioButton">Bible
+      <li><a href="audio/Christian.mp3" class="audioButton">Christian
+      <li><a href="audio/Church.mp3" class="audioButton">Church
+      <li><a href="audio/Dream.mp3" class="audioButton">Dream
+      <li><a href="audio/God.mp3" class="audioButton">God
+      <li><a href="audio/GreatSpirit.mp3" class="audioButton">Great Spirit
+      <li><a href="audio/Groundearth.mp3" class="audioButton">Ground, Earth
+      <li><a href="audio/Hymn.mp3" class="audioButton">Hymn
+      <li><a href="audio/Jesus.mp3" class="audioButton">Jesus
+      <li><a href="audio/LittlePeople.mp3" class="audioButton">Little People
+      <li><a href="audio/medicineperson.mp3" class="audioButton">Medicine Person
+      <li><a href="audio/Moon.mp3" class="audioButton">Moon
+      <li><a href="audio/Preacher.mp3" class="audioButton">Preacher
+      <li><a href="audio/Religion.mp3" class="audioButton">Religion
+      <li><a href="audio/Stompdance.mp3" class="audioButton">Stompdance
+      <li><a href="audio/Stompground.mp3" class="audioButton">Stomp ground
+      <li><a href="audio/Sun.mp3" class="audioButton">Sun
+      <li><a href="audio/Truth.mp3" class="audioButton">Truth
+      <li><a href="audio/Beads.mp3" class="audioButton">Beads
+      <li><a href="audio/Belt.mp3" class="audioButton">Belt
+      <li><a href="audio/Blanket.mp3" class="audioButton">Blanket
+      <li><a href="audio/BreechCloth.mp3" class="audioButton">Breech Cloth
+      <li><a href="audio/Buckskin.mp3" class="audioButton">Buckskin
+      <li><a href="audio/BuckskinShirt.mp3" class="audioButton">Buckskin Shirt
+      <li><a href="audio/Canvas.mp3" class="audioButton">Canvas
+      <li><a href="audio/Cloth.mp3" class="audioButton">Cloth
+      <li><a href="audio/Clothes.mp3" class="audioButton">Clothes
+      <li><a href="audio/Eaglefeathers.mp3" class="audioButton">Eagle feathers
+      <li><a href="audio/Feathers.mp3" class="audioButton">Feathers
+      <li><a href="audio/Hat.mp3" class="audioButton">Hat / headdress
+      <li><a href="audio/Hide.mp3" class="audioButton">Hide
+      <li><a href="audio/Hoovesnails.mp3" class="audioButton">Hoof, nail
+      <li><a href="audio/Metal.mp3" class="audioButton">Metal
+      <li><a href="audio/Moccasins.mp3" class="audioButton">Shoes / Moccasins
+      <li><a href="audio/Needle.mp3" class="audioButton">Needle
+      <li><a href="audio/Outfit.mp3" class="audioButton">Outfit
+      <li><a href="audio/Ribbon.mp3" class="audioButton">Ribbon
+      <li><a href="audio/Ribbonshirt.mp3" class="audioButton">Ribbon shirt
+      <li><a href="audio/Scissors.mp3" class="audioButton">Scissors
+      <li><a href="audio/Shellsturtle.mp3" class="audioButton">Shell
+      <li><a href="audio/Thread.mp3" class="audioButton">Thread
+  		<li><a href="audio/Its dark.mp3" class="audioButton">It's dark.<br><span>Oklhili.</span></a></li>
+  		<li><a href="audio/The dancers are all here.mp3" class="audioButton">The dancers are all here.<br><span>Hilha' hoomóma áyya'sha.</span></a></li>
+  		<li><a href="audio/The fire has been kindled.mp3" class="audioButton">The fire has been kindled.<br><span>Lowak ootitok.</span></a></li>
+  		<li><a href="audio/The_men_are_sitting_under_the_arbors.mp3" class="audioButton">The men are sitting in the arbors.<br><span>Hattak alhihaat chishanko tomaat hoobínohtmáa.</span></a></li>
+  		<li><a href="audio/The chief is calling them out to sing.mp3" class="audioButton">The chief is calling them out to sing.<br><span>Minkoat hootaloowachi iwaa.</span></a></li>
+  		<li><a href="audio/The men say hoo and walk out to dance.mp3" class="audioButton">The men say 'hoo' and walk outto dance.<br><span>Hattak alhihaat 'hoo' aashcha nowaat hilha'chi.</span></a></li>
+  		<li><a href="audio/He will lead the stompdance.mp3" class="audioButton">He will lead the stomp dance.<br><span>Intikbayka'chi.</span></a></li>
+  		<li><a href="audio/That woman is the lead shell shaker.mp3" class="audioButton">That woman is the lead shell shaker.<br><span>Ihoopat tikba loksi' shaali'.</span></a></li>
+  		<li><a href="audio/Women with turtle shakers go first.mp3" class="audioButton">Women with turtle shakers go first.<br><span>Ihoo alhihaat loksi' hooshaalika tingba aya.</span></a></li>
+  		<li><a href="audio/It sounds really good.mp3" class="audioButton">It sounds really good.<br><span>Hakloka chokma!</span></a></li>
+  		<li><a href="audio/I like the garfish dance best.mp3" class="audioButton">I like the garfish dance best.<br><span>Nani' kallo' hilhaako ayyopánshli imáyya.</span></a></li>
+  		<li><a href="audio/The_garfish_dance_is_an_old_dance.mp3" class="audioButton">The garfish dance is an old dance.<br><span>Nani' kallo' hilhaat hilha' sipokni'.</span></a></li>
+  		<li><a href="audio/I hope we sing the stealing partners dance.mp3" class="audioButton">I hope we sing the Stealing Partners dance.<br><span>Ayannili Honkopa' Hilha' ilitaloowachika.</span></a></li>
+  		<li><a href="audio/This dance uses a drum.mp3" class="audioButton">This dance uses a drum.<br><span>Talhipa' yappa ishtihilha'chi.</span></a></li>
+  		<li><a href="audio/The Chickasaw people danced all the time in the homelands.mp3" class="audioButton">The Chickasaw people danced all the time in the homelands.<br><span>Chikashsha' alhiha' iyaakni' sipokni' hoohilha bílli'yanatook.</span></a></li>
+  		<li><a href="audio/After Removal the Chickasaw people still danced.mp3" class="audioButton">After Removal the Chickasaw people could still dance.<br><span>Hoowihaat alakma Chikashsha alhihaat hoohilhani'took</span>.</a></li>
+  		<li><a href="audio/When the last doctor died the Chickasaw quit dancing for a while.mp3" class="audioButton">When the last doctor died the Chickasaw quit dancing for a while.<br><span>Alikchi' ishtalhlhi' illika Chikashsha alhihaat hooaaissachitook hilhaka.</span></a></li>
+  		<li><a href="audio/The_young_people_thought_that_they_should_start_dancing_again_so_they_did.mp3" class="audioButton">The young people thought that they should start dancing again, so they did.<br><span>Himmita' alhihaat anokfillika hoottibaahilhamakila micha hooyammitok.</span></a></li>
+  		<li><a href="audio/Now we dance at Kalihomma' and across the river with the Creeks, Seminoles, Yuchis and Cherokees.mp3" class="audioButton">Now we dance at Kalihomma' and across the river with the Creeks, Seminoles, Yuchis and Cherokees.<br><span>Mako'no Kalihommaako loottibaahilha micha abokoshi' intannap Mashkooki', Shimmanooli', Yochi', Chalaaki' iloottibaahilha</span>.</a></li>
+  		<li><a href="audio/The Chickasaw people will dance, until the world ends.mp3" class="audioButton">The Chickasaw people will dance, until the world ends.<br><span>Nittak ishtayyopi ona'chi Chikashsha alhihaat hoottibaahílhachinka</span>.</a></li>
+  		<li><a href="audio/January.mp3" class="audioButton">January
+  		<li><a href="audio/February.mp3" class="audioButton">February
+  		<li><a href="audio/March.mp3" class="audioButton">March
+  		<li><a href="audio/April.mp3" class="audioButton">April
+  		<li><a href="audio/May.mp3" class="audioButton">May
+  		<li><a href="audio/June.mp3" class="audioButton">June
+  		<li><a href="audio/July.mp3" class="audioButton">July
+  		<li><a href="audio/August.mp3" class="audioButton">August
+  		<li><a href="audio/September.mp3" class="audioButton">September
+  		<li><a href="audio/October.mp3" class="audioButton">October
+  		<li><a href="audio/November.mp3" class="audioButton">November
+  		<li><a href="audio/December.mp3" class="audioButton">December
+ 		<li><a href="audio/Sunday.mp3" class="audioButton">Sunday
+      	<li><a href="audio/Monday.mp3" class="audioButton">Monday
+      	<li><a href="audio/Tuesday.mp3" class="audioButton">Tuesday
+      	<li><a href="audio/Wednesday.mp3" class="audioButton">Wednesday
+      	<li><a href="audio/Thursday.mp3" class="audioButton">Thursday
+      	<li><a href="audio/Friday.mp3" class="audioButton">Friday
+      	<li><a href="audio/Saturday.mp3" class="audioButton">Saturday
+    	<li><a href="audio/Januaryhumes.mp3" class="audioButton">January<br><span>Hushi Ummona</span></a></li>
+    	<li><a href="audio/Februaryhumes.mp3" class="audioButton">February<br><span>Hushi Atuklo</span></a></li>
+    	<li><a href="audio/Marchhumes.mp3" class="audioButton">March<br><span>Hushi Atuchina</span></a></li>
+    	<li><a href="audio/Aprilhumes.mp3" class="audioButton">April<br><span>Eplul</span></a></li>
+    	<li><a href="audio/Mayhumes.mp3" class="audioButton">May<br><span>Me</span></a></li>
+    	<li><a href="audio/Junehumes.mp3" class="audioButton">June<br><span>Chun</span></a></li>
+    	<li><a href="audio/Julyhumes.mp3" class="audioButton">July<br><span>Chulai</span></a></li>
+    	<li><a href="audio/Augusthumes.mp3" class="audioButton">August<br><span>Akus</span></a></li>
+    	<li><a href="audio/Septemberhumes.mp3" class="audioButton">September<br><span>Septimpa</span></a></li>
+    	<li><a href="audio/Octoberhumes.mp3" class="audioButton">October<br><span>Uktopa</span></a></li>
+    	<li><a href="audio/Novemberhumes.mp3" class="audioButton">November<br><span>nofempa</span></a></li>
+    	<li><a href="audio/Decemberhumes.mp3" class="audioButton">December<br><span>Tecimba</span></a></li>
+    	<li><a href="audio/Sundayhumes.mp3" class="audioButton">Sunday<br><span>Ntak Hullo</span></a></li>
+    	<li><a href="audio/Mondayhumes.mp3" class="audioButton">Monday<br><span>Munti</span></a></li>
+    	<li><a href="audio/Tuesdayhumes.mp3" class="audioButton">Tuesday<br><span>Chosti</span></a></li>
+    	<li><a href="audio/Wednesdayhumes.mp3" class="audioButton">Wednesday<br><span>Winsti</span></a></li>
+    	<li><a href="audio/Thursdayhumes.mp3" class="audioButton">Thursday<br><span>Soisti</span></a></li>
+    	<li><a href="audio/Fridayhumes.mp3" class="audioButton">Friday<br><span>Nan Ulhchifa Nitak</span></a></li>
+    	<li><a href="audio/Saturdayhumes.mp3" class="audioButton">Saturday<br><span>Ntiak Hullo Nukfish</span></a></li>
+    	<li><a href="audio/Eyebrowshumes.mp3" class="audioButton">Eyebrows<br><span>Ishkin pukna heshi</span></a></li>
+    	<li><a href="audio/Eyelasheshumes.mp3" class="audioButton">Eyelashes<br><span>Ishkin oshullo</span></a></li>
+    	<li><a href="audio/Girlhumes.mp3" class="audioButton">Girl<br><span>Eho himita</span></a></li>
+    	<li><a href="audio/IndianTribeshumes.mp3" class="audioButton">Indian tribes<br><span>Aiyachufa</span></a></li>
+    	<li><a href="audio/Elderhumes.mp3" class="audioButton">Elder<br><span>Hatuk sipokni</span></a></li>
+    	<li><a href="audio/Deceasedhumes.mp3" class="audioButton">Deceased<br><span>Hatuk illi</span></a></li>
+    	<li><a href="audio/Baptizehumes.mp3" class="audioButton">Baptize<br><span>Baptismochi</span></a></li>
+    	<li><a href="audio/Christianhumes.mp3" class="audioButton">Christian<br><span>Uba anumpa yimmi</span></a></li>
+    	<li><a href="audio/Hymnhumes.mp3" class="audioButton">Hymn<br><span>Taloa</span></a></li>
+    	<li><a href="audio/Jesushumes.mp3" class="audioButton">Jesus<br><span>Chisus</span></a></li>
+    	<li><a href="audio/Truthhumes.mp3" class="audioButton">Truth<br><span><em>A</em>lhi</span></a></li>
+    	<li><a href="audio/Timehumes.mp3" class="audioButton">Time<br><span>Hushi kunitli ulhpisa</span></a></li>
+    	<li><a href="audio/AncientTimehumes.mp3" class="audioButton">Ancient Time<br><span>Hopaki</span></a></li>
+    	<li><a href="audio/Presenthumes.mp3" class="audioButton">Present<br><span>Himonasika</span></a></li>
+    	<li><a href="audio/Pasthumes.mp3" class="audioButton">Past<br><span>Otaiya</span></a></li>
+    	<li><a href="audio/Monthhumes.mp3" class="audioButton">Month<br><span>Hashi</span></a></li>
+    	<li><a href="audio/Hourhumes.mp3" class="audioButton">Hour<br><span>Hashi' kanalli</span></a></li>
+	<li><a href="audio/HatakHushPutaMa.mp3" class="audioButton">Hatak Hush Puta Ma!<br><span>Hatak Hush Puta Ma!</span></a></li>
+	<li><a href="audio/SinnercanyouhatetheSavior.mp3" class="audioButton">Sinner, can you hate the Savior<br><span>Uba Pin Chitokaka Yut</span></a></li>
+	<li><a href="audio/PrayertotheHolySpirit.mp3" class="audioButton">Prayer to the Holy Spirit<br><span>Shilombish Holitopa Ma!</span></a></li>
+    <li><a href="audio/MeditationonDeath.mp3" class="audioButton">Meditation on Death<br><span>Nitak Kanima Fehna ho</span></a></li>
